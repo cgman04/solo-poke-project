@@ -5,6913 +5,6913 @@ export const pokemonList: PokemonOption[] = [
   {
     "id": 1,
     "name": "bulbasaur",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "sprite": "/sprites/pokemon/1.png",
     "region": "kanto"
   },
   {
     "id": 2,
     "name": "ivysaur",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "sprite": "/sprites/pokemon/2.png",
     "region": "kanto"
   },
   {
     "id": 3,
     "name": "venusaur",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "sprite": "/sprites/pokemon/3.png",
     "region": "kanto"
   },
   {
     "id": 4,
     "name": "charmander",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "sprite": "/sprites/pokemon/4.png",
     "region": "kanto"
   },
   {
     "id": 5,
     "name": "charmeleon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "sprite": "/sprites/pokemon/5.png",
     "region": "kanto"
   },
   {
     "id": 6,
     "name": "charizard",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "sprite": "/sprites/pokemon/6.png",
     "region": "kanto"
   },
   {
     "id": 7,
     "name": "squirtle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "sprite": "/sprites/pokemon/7.png",
     "region": "kanto"
   },
   {
     "id": 8,
     "name": "wartortle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "sprite": "/sprites/pokemon/8.png",
     "region": "kanto"
   },
   {
     "id": 9,
     "name": "blastoise",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "sprite": "/sprites/pokemon/9.png",
     "region": "kanto"
   },
   {
     "id": 10,
     "name": "caterpie",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "sprite": "/sprites/pokemon/10.png",
     "region": "kanto"
   },
   {
     "id": 11,
     "name": "metapod",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "sprite": "/sprites/pokemon/11.png",
     "region": "kanto"
   },
   {
     "id": 12,
     "name": "butterfree",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "sprite": "/sprites/pokemon/12.png",
     "region": "kanto"
   },
   {
     "id": 13,
     "name": "weedle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "sprite": "/sprites/pokemon/13.png",
     "region": "kanto"
   },
   {
     "id": 14,
     "name": "kakuna",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "sprite": "/sprites/pokemon/14.png",
     "region": "kanto"
   },
   {
     "id": 15,
     "name": "beedrill",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "sprite": "/sprites/pokemon/15.png",
     "region": "kanto"
   },
   {
     "id": 16,
     "name": "pidgey",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "sprite": "/sprites/pokemon/16.png",
     "region": "kanto"
   },
   {
     "id": 17,
     "name": "pidgeotto",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "sprite": "/sprites/pokemon/17.png",
     "region": "kanto"
   },
   {
     "id": 18,
     "name": "pidgeot",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "sprite": "/sprites/pokemon/18.png",
     "region": "kanto"
   },
   {
     "id": 19,
     "name": "rattata",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "sprite": "/sprites/pokemon/19.png",
     "region": "kanto"
   },
   {
     "id": 20,
     "name": "raticate",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "sprite": "/sprites/pokemon/20.png",
     "region": "kanto"
   },
   {
     "id": 21,
     "name": "spearow",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+    "sprite": "/sprites/pokemon/21.png",
     "region": "kanto"
   },
   {
     "id": 22,
     "name": "fearow",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+    "sprite": "/sprites/pokemon/22.png",
     "region": "kanto"
   },
   {
     "id": 23,
     "name": "ekans",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+    "sprite": "/sprites/pokemon/23.png",
     "region": "kanto"
   },
   {
     "id": 24,
     "name": "arbok",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+    "sprite": "/sprites/pokemon/24.png",
     "region": "kanto"
   },
   {
     "id": 25,
     "name": "pikachu",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "sprite": "/sprites/pokemon/25.png",
     "region": "kanto"
   },
   {
     "id": 26,
     "name": "raichu",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+    "sprite": "/sprites/pokemon/26.png",
     "region": "kanto"
   },
   {
     "id": 27,
     "name": "sandshrew",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+    "sprite": "/sprites/pokemon/27.png",
     "region": "kanto"
   },
   {
     "id": 28,
     "name": "sandslash",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+    "sprite": "/sprites/pokemon/28.png",
     "region": "kanto"
   },
   {
     "id": 29,
     "name": "nidoran-f",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+    "sprite": "/sprites/pokemon/29.png",
     "region": "kanto"
   },
   {
     "id": 30,
     "name": "nidorina",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+    "sprite": "/sprites/pokemon/30.png",
     "region": "kanto"
   },
   {
     "id": 31,
     "name": "nidoqueen",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+    "sprite": "/sprites/pokemon/31.png",
     "region": "kanto"
   },
   {
     "id": 32,
     "name": "nidoran-m",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+    "sprite": "/sprites/pokemon/32.png",
     "region": "kanto"
   },
   {
     "id": 33,
     "name": "nidorino",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+    "sprite": "/sprites/pokemon/33.png",
     "region": "kanto"
   },
   {
     "id": 34,
     "name": "nidoking",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+    "sprite": "/sprites/pokemon/34.png",
     "region": "kanto"
   },
   {
     "id": 35,
     "name": "clefairy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+    "sprite": "/sprites/pokemon/35.png",
     "region": "kanto"
   },
   {
     "id": 36,
     "name": "clefable",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+    "sprite": "/sprites/pokemon/36.png",
     "region": "kanto"
   },
   {
     "id": 37,
     "name": "vulpix",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+    "sprite": "/sprites/pokemon/37.png",
     "region": "kanto"
   },
   {
     "id": 38,
     "name": "ninetales",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+    "sprite": "/sprites/pokemon/38.png",
     "region": "kanto"
   },
   {
     "id": 39,
     "name": "jigglypuff",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "sprite": "/sprites/pokemon/39.png",
     "region": "kanto"
   },
   {
     "id": 40,
     "name": "wigglytuff",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+    "sprite": "/sprites/pokemon/40.png",
     "region": "kanto"
   },
   {
     "id": 41,
     "name": "zubat",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+    "sprite": "/sprites/pokemon/41.png",
     "region": "kanto"
   },
   {
     "id": 42,
     "name": "golbat",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+    "sprite": "/sprites/pokemon/42.png",
     "region": "kanto"
   },
   {
     "id": 43,
     "name": "oddish",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+    "sprite": "/sprites/pokemon/43.png",
     "region": "kanto"
   },
   {
     "id": 44,
     "name": "gloom",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+    "sprite": "/sprites/pokemon/44.png",
     "region": "kanto"
   },
   {
     "id": 45,
     "name": "vileplume",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+    "sprite": "/sprites/pokemon/45.png",
     "region": "kanto"
   },
   {
     "id": 46,
     "name": "paras",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+    "sprite": "/sprites/pokemon/46.png",
     "region": "kanto"
   },
   {
     "id": 47,
     "name": "parasect",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+    "sprite": "/sprites/pokemon/47.png",
     "region": "kanto"
   },
   {
     "id": 48,
     "name": "venonat",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+    "sprite": "/sprites/pokemon/48.png",
     "region": "kanto"
   },
   {
     "id": 49,
     "name": "venomoth",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+    "sprite": "/sprites/pokemon/49.png",
     "region": "kanto"
   },
   {
     "id": 50,
     "name": "diglett",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+    "sprite": "/sprites/pokemon/50.png",
     "region": "kanto"
   },
   {
     "id": 51,
     "name": "dugtrio",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+    "sprite": "/sprites/pokemon/51.png",
     "region": "kanto"
   },
   {
     "id": 52,
     "name": "meowth",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+    "sprite": "/sprites/pokemon/52.png",
     "region": "kanto"
   },
   {
     "id": 53,
     "name": "persian",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+    "sprite": "/sprites/pokemon/53.png",
     "region": "kanto"
   },
   {
     "id": 54,
     "name": "psyduck",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+    "sprite": "/sprites/pokemon/54.png",
     "region": "kanto"
   },
   {
     "id": 55,
     "name": "golduck",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+    "sprite": "/sprites/pokemon/55.png",
     "region": "kanto"
   },
   {
     "id": 56,
     "name": "mankey",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+    "sprite": "/sprites/pokemon/56.png",
     "region": "kanto"
   },
   {
     "id": 57,
     "name": "primeape",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+    "sprite": "/sprites/pokemon/57.png",
     "region": "kanto"
   },
   {
     "id": 58,
     "name": "growlithe",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+    "sprite": "/sprites/pokemon/58.png",
     "region": "kanto"
   },
   {
     "id": 59,
     "name": "arcanine",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+    "sprite": "/sprites/pokemon/59.png",
     "region": "kanto"
   },
   {
     "id": 60,
     "name": "poliwag",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+    "sprite": "/sprites/pokemon/60.png",
     "region": "kanto"
   },
   {
     "id": 61,
     "name": "poliwhirl",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+    "sprite": "/sprites/pokemon/61.png",
     "region": "kanto"
   },
   {
     "id": 62,
     "name": "poliwrath",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+    "sprite": "/sprites/pokemon/62.png",
     "region": "kanto"
   },
   {
     "id": 63,
     "name": "abra",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+    "sprite": "/sprites/pokemon/63.png",
     "region": "kanto"
   },
   {
     "id": 64,
     "name": "kadabra",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+    "sprite": "/sprites/pokemon/64.png",
     "region": "kanto"
   },
   {
     "id": 65,
     "name": "alakazam",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+    "sprite": "/sprites/pokemon/65.png",
     "region": "kanto"
   },
   {
     "id": 66,
     "name": "machop",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+    "sprite": "/sprites/pokemon/66.png",
     "region": "kanto"
   },
   {
     "id": 67,
     "name": "machoke",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+    "sprite": "/sprites/pokemon/67.png",
     "region": "kanto"
   },
   {
     "id": 68,
     "name": "machamp",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+    "sprite": "/sprites/pokemon/68.png",
     "region": "kanto"
   },
   {
     "id": 69,
     "name": "bellsprout",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+    "sprite": "/sprites/pokemon/69.png",
     "region": "kanto"
   },
   {
     "id": 70,
     "name": "weepinbell",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+    "sprite": "/sprites/pokemon/70.png",
     "region": "kanto"
   },
   {
     "id": 71,
     "name": "victreebel",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+    "sprite": "/sprites/pokemon/71.png",
     "region": "kanto"
   },
   {
     "id": 72,
     "name": "tentacool",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+    "sprite": "/sprites/pokemon/72.png",
     "region": "kanto"
   },
   {
     "id": 73,
     "name": "tentacruel",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+    "sprite": "/sprites/pokemon/73.png",
     "region": "kanto"
   },
   {
     "id": 74,
     "name": "geodude",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+    "sprite": "/sprites/pokemon/74.png",
     "region": "kanto"
   },
   {
     "id": 75,
     "name": "graveler",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+    "sprite": "/sprites/pokemon/75.png",
     "region": "kanto"
   },
   {
     "id": 76,
     "name": "golem",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+    "sprite": "/sprites/pokemon/76.png",
     "region": "kanto"
   },
   {
     "id": 77,
     "name": "ponyta",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+    "sprite": "/sprites/pokemon/77.png",
     "region": "kanto"
   },
   {
     "id": 78,
     "name": "rapidash",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+    "sprite": "/sprites/pokemon/78.png",
     "region": "kanto"
   },
   {
     "id": 79,
     "name": "slowpoke",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+    "sprite": "/sprites/pokemon/79.png",
     "region": "kanto"
   },
   {
     "id": 80,
     "name": "slowbro",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+    "sprite": "/sprites/pokemon/80.png",
     "region": "kanto"
   },
   {
     "id": 81,
     "name": "magnemite",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+    "sprite": "/sprites/pokemon/81.png",
     "region": "kanto"
   },
   {
     "id": 82,
     "name": "magneton",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+    "sprite": "/sprites/pokemon/82.png",
     "region": "kanto"
   },
   {
     "id": 83,
     "name": "farfetchd",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+    "sprite": "/sprites/pokemon/83.png",
     "region": "kanto"
   },
   {
     "id": 84,
     "name": "doduo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+    "sprite": "/sprites/pokemon/84.png",
     "region": "kanto"
   },
   {
     "id": 85,
     "name": "dodrio",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+    "sprite": "/sprites/pokemon/85.png",
     "region": "kanto"
   },
   {
     "id": 86,
     "name": "seel",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+    "sprite": "/sprites/pokemon/86.png",
     "region": "kanto"
   },
   {
     "id": 87,
     "name": "dewgong",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+    "sprite": "/sprites/pokemon/87.png",
     "region": "kanto"
   },
   {
     "id": 88,
     "name": "grimer",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+    "sprite": "/sprites/pokemon/88.png",
     "region": "kanto"
   },
   {
     "id": 89,
     "name": "muk",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+    "sprite": "/sprites/pokemon/89.png",
     "region": "kanto"
   },
   {
     "id": 90,
     "name": "shellder",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+    "sprite": "/sprites/pokemon/90.png",
     "region": "kanto"
   },
   {
     "id": 91,
     "name": "cloyster",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+    "sprite": "/sprites/pokemon/91.png",
     "region": "kanto"
   },
   {
     "id": 92,
     "name": "gastly",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+    "sprite": "/sprites/pokemon/92.png",
     "region": "kanto"
   },
   {
     "id": 93,
     "name": "haunter",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+    "sprite": "/sprites/pokemon/93.png",
     "region": "kanto"
   },
   {
     "id": 94,
     "name": "gengar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "sprite": "/sprites/pokemon/94.png",
     "region": "kanto"
   },
   {
     "id": 95,
     "name": "onix",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+    "sprite": "/sprites/pokemon/95.png",
     "region": "kanto"
   },
   {
     "id": 96,
     "name": "drowzee",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+    "sprite": "/sprites/pokemon/96.png",
     "region": "kanto"
   },
   {
     "id": 97,
     "name": "hypno",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+    "sprite": "/sprites/pokemon/97.png",
     "region": "kanto"
   },
   {
     "id": 98,
     "name": "krabby",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+    "sprite": "/sprites/pokemon/98.png",
     "region": "kanto"
   },
   {
     "id": 99,
     "name": "kingler",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+    "sprite": "/sprites/pokemon/99.png",
     "region": "kanto"
   },
   {
     "id": 100,
     "name": "voltorb",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+    "sprite": "/sprites/pokemon/100.png",
     "region": "kanto"
   },
   {
     "id": 101,
     "name": "electrode",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+    "sprite": "/sprites/pokemon/101.png",
     "region": "kanto"
   },
   {
     "id": 102,
     "name": "exeggcute",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+    "sprite": "/sprites/pokemon/102.png",
     "region": "kanto"
   },
   {
     "id": 103,
     "name": "exeggutor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+    "sprite": "/sprites/pokemon/103.png",
     "region": "kanto"
   },
   {
     "id": 104,
     "name": "cubone",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+    "sprite": "/sprites/pokemon/104.png",
     "region": "kanto"
   },
   {
     "id": 105,
     "name": "marowak",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+    "sprite": "/sprites/pokemon/105.png",
     "region": "kanto"
   },
   {
     "id": 106,
     "name": "hitmonlee",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+    "sprite": "/sprites/pokemon/106.png",
     "region": "kanto"
   },
   {
     "id": 107,
     "name": "hitmonchan",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+    "sprite": "/sprites/pokemon/107.png",
     "region": "kanto"
   },
   {
     "id": 108,
     "name": "lickitung",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+    "sprite": "/sprites/pokemon/108.png",
     "region": "kanto"
   },
   {
     "id": 109,
     "name": "koffing",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+    "sprite": "/sprites/pokemon/109.png",
     "region": "kanto"
   },
   {
     "id": 110,
     "name": "weezing",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+    "sprite": "/sprites/pokemon/110.png",
     "region": "kanto"
   },
   {
     "id": 111,
     "name": "rhyhorn",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+    "sprite": "/sprites/pokemon/111.png",
     "region": "kanto"
   },
   {
     "id": 112,
     "name": "rhydon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+    "sprite": "/sprites/pokemon/112.png",
     "region": "kanto"
   },
   {
     "id": 113,
     "name": "chansey",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+    "sprite": "/sprites/pokemon/113.png",
     "region": "kanto"
   },
   {
     "id": 114,
     "name": "tangela",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+    "sprite": "/sprites/pokemon/114.png",
     "region": "kanto"
   },
   {
     "id": 115,
     "name": "kangaskhan",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+    "sprite": "/sprites/pokemon/115.png",
     "region": "kanto"
   },
   {
     "id": 116,
     "name": "horsea",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+    "sprite": "/sprites/pokemon/116.png",
     "region": "kanto"
   },
   {
     "id": 117,
     "name": "seadra",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+    "sprite": "/sprites/pokemon/117.png",
     "region": "kanto"
   },
   {
     "id": 118,
     "name": "goldeen",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+    "sprite": "/sprites/pokemon/118.png",
     "region": "kanto"
   },
   {
     "id": 119,
     "name": "seaking",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+    "sprite": "/sprites/pokemon/119.png",
     "region": "kanto"
   },
   {
     "id": 120,
     "name": "staryu",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+    "sprite": "/sprites/pokemon/120.png",
     "region": "kanto"
   },
   {
     "id": 121,
     "name": "starmie",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+    "sprite": "/sprites/pokemon/121.png",
     "region": "kanto"
   },
   {
     "id": 122,
     "name": "mr-mime",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+    "sprite": "/sprites/pokemon/122.png",
     "region": "kanto"
   },
   {
     "id": 123,
     "name": "scyther",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+    "sprite": "/sprites/pokemon/123.png",
     "region": "kanto"
   },
   {
     "id": 124,
     "name": "jynx",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+    "sprite": "/sprites/pokemon/124.png",
     "region": "kanto"
   },
   {
     "id": 125,
     "name": "electabuzz",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+    "sprite": "/sprites/pokemon/125.png",
     "region": "kanto"
   },
   {
     "id": 126,
     "name": "magmar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+    "sprite": "/sprites/pokemon/126.png",
     "region": "kanto"
   },
   {
     "id": 127,
     "name": "pinsir",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+    "sprite": "/sprites/pokemon/127.png",
     "region": "kanto"
   },
   {
     "id": 128,
     "name": "tauros",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+    "sprite": "/sprites/pokemon/128.png",
     "region": "kanto"
   },
   {
     "id": 129,
     "name": "magikarp",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+    "sprite": "/sprites/pokemon/129.png",
     "region": "kanto"
   },
   {
     "id": 130,
     "name": "gyarados",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+    "sprite": "/sprites/pokemon/130.png",
     "region": "kanto"
   },
   {
     "id": 131,
     "name": "lapras",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+    "sprite": "/sprites/pokemon/131.png",
     "region": "kanto"
   },
   {
     "id": 132,
     "name": "ditto",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+    "sprite": "/sprites/pokemon/132.png",
     "region": "kanto"
   },
   {
     "id": 133,
     "name": "eevee",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+    "sprite": "/sprites/pokemon/133.png",
     "region": "kanto"
   },
   {
     "id": 134,
     "name": "vaporeon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+    "sprite": "/sprites/pokemon/134.png",
     "region": "kanto"
   },
   {
     "id": 135,
     "name": "jolteon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+    "sprite": "/sprites/pokemon/135.png",
     "region": "kanto"
   },
   {
     "id": 136,
     "name": "flareon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+    "sprite": "/sprites/pokemon/136.png",
     "region": "kanto"
   },
   {
     "id": 137,
     "name": "porygon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+    "sprite": "/sprites/pokemon/137.png",
     "region": "kanto"
   },
   {
     "id": 138,
     "name": "omanyte",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+    "sprite": "/sprites/pokemon/138.png",
     "region": "kanto"
   },
   {
     "id": 139,
     "name": "omastar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+    "sprite": "/sprites/pokemon/139.png",
     "region": "kanto"
   },
   {
     "id": 140,
     "name": "kabuto",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+    "sprite": "/sprites/pokemon/140.png",
     "region": "kanto"
   },
   {
     "id": 141,
     "name": "kabutops",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+    "sprite": "/sprites/pokemon/141.png",
     "region": "kanto"
   },
   {
     "id": 142,
     "name": "aerodactyl",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+    "sprite": "/sprites/pokemon/142.png",
     "region": "kanto"
   },
   {
     "id": 143,
     "name": "snorlax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+    "sprite": "/sprites/pokemon/143.png",
     "region": "kanto"
   },
   {
     "id": 144,
     "name": "articuno",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+    "sprite": "/sprites/pokemon/144.png",
     "region": "kanto"
   },
   {
     "id": 145,
     "name": "zapdos",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+    "sprite": "/sprites/pokemon/145.png",
     "region": "kanto"
   },
   {
     "id": 146,
     "name": "moltres",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+    "sprite": "/sprites/pokemon/146.png",
     "region": "kanto"
   },
   {
     "id": 147,
     "name": "dratini",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+    "sprite": "/sprites/pokemon/147.png",
     "region": "kanto"
   },
   {
     "id": 148,
     "name": "dragonair",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+    "sprite": "/sprites/pokemon/148.png",
     "region": "kanto"
   },
   {
     "id": 149,
     "name": "dragonite",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+    "sprite": "/sprites/pokemon/149.png",
     "region": "kanto"
   },
   {
     "id": 150,
     "name": "mewtwo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+    "sprite": "/sprites/pokemon/150.png",
     "region": "kanto"
   },
   {
     "id": 151,
     "name": "mew",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+    "sprite": "/sprites/pokemon/151.png",
     "region": "kanto"
   },
   {
     "id": 152,
     "name": "chikorita",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
+    "sprite": "/sprites/pokemon/152.png",
     "region": "johto"
   },
   {
     "id": 153,
     "name": "bayleef",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png",
+    "sprite": "/sprites/pokemon/153.png",
     "region": "johto"
   },
   {
     "id": 154,
     "name": "meganium",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png",
+    "sprite": "/sprites/pokemon/154.png",
     "region": "johto"
   },
   {
     "id": 155,
     "name": "cyndaquil",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
+    "sprite": "/sprites/pokemon/155.png",
     "region": "johto"
   },
   {
     "id": 156,
     "name": "quilava",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png",
+    "sprite": "/sprites/pokemon/156.png",
     "region": "johto"
   },
   {
     "id": 157,
     "name": "typhlosion",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png",
+    "sprite": "/sprites/pokemon/157.png",
     "region": "johto"
   },
   {
     "id": 158,
     "name": "totodile",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png",
+    "sprite": "/sprites/pokemon/158.png",
     "region": "johto"
   },
   {
     "id": 159,
     "name": "croconaw",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png",
+    "sprite": "/sprites/pokemon/159.png",
     "region": "johto"
   },
   {
     "id": 160,
     "name": "feraligatr",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png",
+    "sprite": "/sprites/pokemon/160.png",
     "region": "johto"
   },
   {
     "id": 161,
     "name": "sentret",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png",
+    "sprite": "/sprites/pokemon/161.png",
     "region": "johto"
   },
   {
     "id": 162,
     "name": "furret",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png",
+    "sprite": "/sprites/pokemon/162.png",
     "region": "johto"
   },
   {
     "id": 163,
     "name": "hoothoot",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png",
+    "sprite": "/sprites/pokemon/163.png",
     "region": "johto"
   },
   {
     "id": 164,
     "name": "noctowl",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png",
+    "sprite": "/sprites/pokemon/164.png",
     "region": "johto"
   },
   {
     "id": 165,
     "name": "ledyba",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png",
+    "sprite": "/sprites/pokemon/165.png",
     "region": "johto"
   },
   {
     "id": 166,
     "name": "ledian",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png",
+    "sprite": "/sprites/pokemon/166.png",
     "region": "johto"
   },
   {
     "id": 167,
     "name": "spinarak",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png",
+    "sprite": "/sprites/pokemon/167.png",
     "region": "johto"
   },
   {
     "id": 168,
     "name": "ariados",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png",
+    "sprite": "/sprites/pokemon/168.png",
     "region": "johto"
   },
   {
     "id": 169,
     "name": "crobat",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png",
+    "sprite": "/sprites/pokemon/169.png",
     "region": "johto"
   },
   {
     "id": 170,
     "name": "chinchou",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png",
+    "sprite": "/sprites/pokemon/170.png",
     "region": "johto"
   },
   {
     "id": 171,
     "name": "lanturn",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png",
+    "sprite": "/sprites/pokemon/171.png",
     "region": "johto"
   },
   {
     "id": 172,
     "name": "pichu",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png",
+    "sprite": "/sprites/pokemon/172.png",
     "region": "johto"
   },
   {
     "id": 173,
     "name": "cleffa",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png",
+    "sprite": "/sprites/pokemon/173.png",
     "region": "johto"
   },
   {
     "id": 174,
     "name": "igglybuff",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png",
+    "sprite": "/sprites/pokemon/174.png",
     "region": "johto"
   },
   {
     "id": 175,
     "name": "togepi",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png",
+    "sprite": "/sprites/pokemon/175.png",
     "region": "johto"
   },
   {
     "id": 176,
     "name": "togetic",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png",
+    "sprite": "/sprites/pokemon/176.png",
     "region": "johto"
   },
   {
     "id": 177,
     "name": "natu",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png",
+    "sprite": "/sprites/pokemon/177.png",
     "region": "johto"
   },
   {
     "id": 178,
     "name": "xatu",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
+    "sprite": "/sprites/pokemon/178.png",
     "region": "johto"
   },
   {
     "id": 179,
     "name": "mareep",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png",
+    "sprite": "/sprites/pokemon/179.png",
     "region": "johto"
   },
   {
     "id": 180,
     "name": "flaaffy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png",
+    "sprite": "/sprites/pokemon/180.png",
     "region": "johto"
   },
   {
     "id": 181,
     "name": "ampharos",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png",
+    "sprite": "/sprites/pokemon/181.png",
     "region": "johto"
   },
   {
     "id": 182,
     "name": "bellossom",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png",
+    "sprite": "/sprites/pokemon/182.png",
     "region": "johto"
   },
   {
     "id": 183,
     "name": "marill",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png",
+    "sprite": "/sprites/pokemon/183.png",
     "region": "johto"
   },
   {
     "id": 184,
     "name": "azumarill",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png",
+    "sprite": "/sprites/pokemon/184.png",
     "region": "johto"
   },
   {
     "id": 185,
     "name": "sudowoodo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png",
+    "sprite": "/sprites/pokemon/185.png",
     "region": "johto"
   },
   {
     "id": 186,
     "name": "politoed",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png",
+    "sprite": "/sprites/pokemon/186.png",
     "region": "johto"
   },
   {
     "id": 187,
     "name": "hoppip",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png",
+    "sprite": "/sprites/pokemon/187.png",
     "region": "johto"
   },
   {
     "id": 188,
     "name": "skiploom",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png",
+    "sprite": "/sprites/pokemon/188.png",
     "region": "johto"
   },
   {
     "id": 189,
     "name": "jumpluff",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png",
+    "sprite": "/sprites/pokemon/189.png",
     "region": "johto"
   },
   {
     "id": 190,
     "name": "aipom",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png",
+    "sprite": "/sprites/pokemon/190.png",
     "region": "johto"
   },
   {
     "id": 191,
     "name": "sunkern",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png",
+    "sprite": "/sprites/pokemon/191.png",
     "region": "johto"
   },
   {
     "id": 192,
     "name": "sunflora",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png",
+    "sprite": "/sprites/pokemon/192.png",
     "region": "johto"
   },
   {
     "id": 193,
     "name": "yanma",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png",
+    "sprite": "/sprites/pokemon/193.png",
     "region": "johto"
   },
   {
     "id": 194,
     "name": "wooper",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png",
+    "sprite": "/sprites/pokemon/194.png",
     "region": "johto"
   },
   {
     "id": 195,
     "name": "quagsire",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png",
+    "sprite": "/sprites/pokemon/195.png",
     "region": "johto"
   },
   {
     "id": 196,
     "name": "espeon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png",
+    "sprite": "/sprites/pokemon/196.png",
     "region": "johto"
   },
   {
     "id": 197,
     "name": "umbreon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png",
+    "sprite": "/sprites/pokemon/197.png",
     "region": "johto"
   },
   {
     "id": 198,
     "name": "murkrow",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png",
+    "sprite": "/sprites/pokemon/198.png",
     "region": "johto"
   },
   {
     "id": 199,
     "name": "slowking",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png",
+    "sprite": "/sprites/pokemon/199.png",
     "region": "johto"
   },
   {
     "id": 200,
     "name": "misdreavus",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
+    "sprite": "/sprites/pokemon/200.png",
     "region": "johto"
   },
   {
     "id": 201,
     "name": "unown",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png",
+    "sprite": "/sprites/pokemon/201.png",
     "region": "johto"
   },
   {
     "id": 202,
     "name": "wobbuffet",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png",
+    "sprite": "/sprites/pokemon/202.png",
     "region": "johto"
   },
   {
     "id": 203,
     "name": "girafarig",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png",
+    "sprite": "/sprites/pokemon/203.png",
     "region": "johto"
   },
   {
     "id": 204,
     "name": "pineco",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png",
+    "sprite": "/sprites/pokemon/204.png",
     "region": "johto"
   },
   {
     "id": 205,
     "name": "forretress",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png",
+    "sprite": "/sprites/pokemon/205.png",
     "region": "johto"
   },
   {
     "id": 206,
     "name": "dunsparce",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png",
+    "sprite": "/sprites/pokemon/206.png",
     "region": "johto"
   },
   {
     "id": 207,
     "name": "gligar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png",
+    "sprite": "/sprites/pokemon/207.png",
     "region": "johto"
   },
   {
     "id": 208,
     "name": "steelix",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
+    "sprite": "/sprites/pokemon/208.png",
     "region": "johto"
   },
   {
     "id": 209,
     "name": "snubbull",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png",
+    "sprite": "/sprites/pokemon/209.png",
     "region": "johto"
   },
   {
     "id": 210,
     "name": "granbull",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png",
+    "sprite": "/sprites/pokemon/210.png",
     "region": "johto"
   },
   {
     "id": 211,
     "name": "qwilfish",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png",
+    "sprite": "/sprites/pokemon/211.png",
     "region": "johto"
   },
   {
     "id": 212,
     "name": "scizor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
+    "sprite": "/sprites/pokemon/212.png",
     "region": "johto"
   },
   {
     "id": 213,
     "name": "shuckle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png",
+    "sprite": "/sprites/pokemon/213.png",
     "region": "johto"
   },
   {
     "id": 214,
     "name": "heracross",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png",
+    "sprite": "/sprites/pokemon/214.png",
     "region": "johto"
   },
   {
     "id": 215,
     "name": "sneasel",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png",
+    "sprite": "/sprites/pokemon/215.png",
     "region": "johto"
   },
   {
     "id": 216,
     "name": "teddiursa",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png",
+    "sprite": "/sprites/pokemon/216.png",
     "region": "johto"
   },
   {
     "id": 217,
     "name": "ursaring",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png",
+    "sprite": "/sprites/pokemon/217.png",
     "region": "johto"
   },
   {
     "id": 218,
     "name": "slugma",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png",
+    "sprite": "/sprites/pokemon/218.png",
     "region": "johto"
   },
   {
     "id": 219,
     "name": "magcargo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png",
+    "sprite": "/sprites/pokemon/219.png",
     "region": "johto"
   },
   {
     "id": 220,
     "name": "swinub",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png",
+    "sprite": "/sprites/pokemon/220.png",
     "region": "johto"
   },
   {
     "id": 221,
     "name": "piloswine",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png",
+    "sprite": "/sprites/pokemon/221.png",
     "region": "johto"
   },
   {
     "id": 222,
     "name": "corsola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png",
+    "sprite": "/sprites/pokemon/222.png",
     "region": "johto"
   },
   {
     "id": 223,
     "name": "remoraid",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png",
+    "sprite": "/sprites/pokemon/223.png",
     "region": "johto"
   },
   {
     "id": 224,
     "name": "octillery",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png",
+    "sprite": "/sprites/pokemon/224.png",
     "region": "johto"
   },
   {
     "id": 225,
     "name": "delibird",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png",
+    "sprite": "/sprites/pokemon/225.png",
     "region": "johto"
   },
   {
     "id": 226,
     "name": "mantine",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png",
+    "sprite": "/sprites/pokemon/226.png",
     "region": "johto"
   },
   {
     "id": 227,
     "name": "skarmory",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png",
+    "sprite": "/sprites/pokemon/227.png",
     "region": "johto"
   },
   {
     "id": 228,
     "name": "houndour",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png",
+    "sprite": "/sprites/pokemon/228.png",
     "region": "johto"
   },
   {
     "id": 229,
     "name": "houndoom",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png",
+    "sprite": "/sprites/pokemon/229.png",
     "region": "johto"
   },
   {
     "id": 230,
     "name": "kingdra",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png",
+    "sprite": "/sprites/pokemon/230.png",
     "region": "johto"
   },
   {
     "id": 231,
     "name": "phanpy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png",
+    "sprite": "/sprites/pokemon/231.png",
     "region": "johto"
   },
   {
     "id": 232,
     "name": "donphan",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png",
+    "sprite": "/sprites/pokemon/232.png",
     "region": "johto"
   },
   {
     "id": 233,
     "name": "porygon2",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
+    "sprite": "/sprites/pokemon/233.png",
     "region": "johto"
   },
   {
     "id": 234,
     "name": "stantler",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png",
+    "sprite": "/sprites/pokemon/234.png",
     "region": "johto"
   },
   {
     "id": 235,
     "name": "smeargle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png",
+    "sprite": "/sprites/pokemon/235.png",
     "region": "johto"
   },
   {
     "id": 236,
     "name": "tyrogue",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png",
+    "sprite": "/sprites/pokemon/236.png",
     "region": "johto"
   },
   {
     "id": 237,
     "name": "hitmontop",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png",
+    "sprite": "/sprites/pokemon/237.png",
     "region": "johto"
   },
   {
     "id": 238,
     "name": "smoochum",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png",
+    "sprite": "/sprites/pokemon/238.png",
     "region": "johto"
   },
   {
     "id": 239,
     "name": "elekid",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
+    "sprite": "/sprites/pokemon/239.png",
     "region": "johto"
   },
   {
     "id": 240,
     "name": "magby",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png",
+    "sprite": "/sprites/pokemon/240.png",
     "region": "johto"
   },
   {
     "id": 241,
     "name": "miltank",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png",
+    "sprite": "/sprites/pokemon/241.png",
     "region": "johto"
   },
   {
     "id": 242,
     "name": "blissey",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png",
+    "sprite": "/sprites/pokemon/242.png",
     "region": "johto"
   },
   {
     "id": 243,
     "name": "raikou",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png",
+    "sprite": "/sprites/pokemon/243.png",
     "region": "johto"
   },
   {
     "id": 244,
     "name": "entei",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
+    "sprite": "/sprites/pokemon/244.png",
     "region": "johto"
   },
   {
     "id": 245,
     "name": "suicune",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
+    "sprite": "/sprites/pokemon/245.png",
     "region": "johto"
   },
   {
     "id": 246,
     "name": "larvitar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png",
+    "sprite": "/sprites/pokemon/246.png",
     "region": "johto"
   },
   {
     "id": 247,
     "name": "pupitar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
+    "sprite": "/sprites/pokemon/247.png",
     "region": "johto"
   },
   {
     "id": 248,
     "name": "tyranitar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
+    "sprite": "/sprites/pokemon/248.png",
     "region": "johto"
   },
   {
     "id": 249,
     "name": "lugia",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+    "sprite": "/sprites/pokemon/249.png",
     "region": "johto"
   },
   {
     "id": 250,
     "name": "ho-oh",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png",
+    "sprite": "/sprites/pokemon/250.png",
     "region": "johto"
   },
   {
     "id": 251,
     "name": "celebi",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png",
+    "sprite": "/sprites/pokemon/251.png",
     "region": "johto"
   },
   {
     "id": 252,
     "name": "treecko",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png",
+    "sprite": "/sprites/pokemon/252.png",
     "region": "hoenn"
   },
   {
     "id": 253,
     "name": "grovyle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png",
+    "sprite": "/sprites/pokemon/253.png",
     "region": "hoenn"
   },
   {
     "id": 254,
     "name": "sceptile",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png",
+    "sprite": "/sprites/pokemon/254.png",
     "region": "hoenn"
   },
   {
     "id": 255,
     "name": "torchic",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png",
+    "sprite": "/sprites/pokemon/255.png",
     "region": "hoenn"
   },
   {
     "id": 256,
     "name": "combusken",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png",
+    "sprite": "/sprites/pokemon/256.png",
     "region": "hoenn"
   },
   {
     "id": 257,
     "name": "blaziken",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png",
+    "sprite": "/sprites/pokemon/257.png",
     "region": "hoenn"
   },
   {
     "id": 258,
     "name": "mudkip",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png",
+    "sprite": "/sprites/pokemon/258.png",
     "region": "hoenn"
   },
   {
     "id": 259,
     "name": "marshtomp",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png",
+    "sprite": "/sprites/pokemon/259.png",
     "region": "hoenn"
   },
   {
     "id": 260,
     "name": "swampert",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png",
+    "sprite": "/sprites/pokemon/260.png",
     "region": "hoenn"
   },
   {
     "id": 261,
     "name": "poochyena",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png",
+    "sprite": "/sprites/pokemon/261.png",
     "region": "hoenn"
   },
   {
     "id": 262,
     "name": "mightyena",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png",
+    "sprite": "/sprites/pokemon/262.png",
     "region": "hoenn"
   },
   {
     "id": 263,
     "name": "zigzagoon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png",
+    "sprite": "/sprites/pokemon/263.png",
     "region": "hoenn"
   },
   {
     "id": 264,
     "name": "linoone",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png",
+    "sprite": "/sprites/pokemon/264.png",
     "region": "hoenn"
   },
   {
     "id": 265,
     "name": "wurmple",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png",
+    "sprite": "/sprites/pokemon/265.png",
     "region": "hoenn"
   },
   {
     "id": 266,
     "name": "silcoon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png",
+    "sprite": "/sprites/pokemon/266.png",
     "region": "hoenn"
   },
   {
     "id": 267,
     "name": "beautifly",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png",
+    "sprite": "/sprites/pokemon/267.png",
     "region": "hoenn"
   },
   {
     "id": 268,
     "name": "cascoon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png",
+    "sprite": "/sprites/pokemon/268.png",
     "region": "hoenn"
   },
   {
     "id": 269,
     "name": "dustox",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png",
+    "sprite": "/sprites/pokemon/269.png",
     "region": "hoenn"
   },
   {
     "id": 270,
     "name": "lotad",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png",
+    "sprite": "/sprites/pokemon/270.png",
     "region": "hoenn"
   },
   {
     "id": 271,
     "name": "lombre",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png",
+    "sprite": "/sprites/pokemon/271.png",
     "region": "hoenn"
   },
   {
     "id": 272,
     "name": "ludicolo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png",
+    "sprite": "/sprites/pokemon/272.png",
     "region": "hoenn"
   },
   {
     "id": 273,
     "name": "seedot",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png",
+    "sprite": "/sprites/pokemon/273.png",
     "region": "hoenn"
   },
   {
     "id": 274,
     "name": "nuzleaf",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png",
+    "sprite": "/sprites/pokemon/274.png",
     "region": "hoenn"
   },
   {
     "id": 275,
     "name": "shiftry",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png",
+    "sprite": "/sprites/pokemon/275.png",
     "region": "hoenn"
   },
   {
     "id": 276,
     "name": "taillow",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png",
+    "sprite": "/sprites/pokemon/276.png",
     "region": "hoenn"
   },
   {
     "id": 277,
     "name": "swellow",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png",
+    "sprite": "/sprites/pokemon/277.png",
     "region": "hoenn"
   },
   {
     "id": 278,
     "name": "wingull",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png",
+    "sprite": "/sprites/pokemon/278.png",
     "region": "hoenn"
   },
   {
     "id": 279,
     "name": "pelipper",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png",
+    "sprite": "/sprites/pokemon/279.png",
     "region": "hoenn"
   },
   {
     "id": 280,
     "name": "ralts",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png",
+    "sprite": "/sprites/pokemon/280.png",
     "region": "hoenn"
   },
   {
     "id": 281,
     "name": "kirlia",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png",
+    "sprite": "/sprites/pokemon/281.png",
     "region": "hoenn"
   },
   {
     "id": 282,
     "name": "gardevoir",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png",
+    "sprite": "/sprites/pokemon/282.png",
     "region": "hoenn"
   },
   {
     "id": 283,
     "name": "surskit",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png",
+    "sprite": "/sprites/pokemon/283.png",
     "region": "hoenn"
   },
   {
     "id": 284,
     "name": "masquerain",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png",
+    "sprite": "/sprites/pokemon/284.png",
     "region": "hoenn"
   },
   {
     "id": 285,
     "name": "shroomish",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png",
+    "sprite": "/sprites/pokemon/285.png",
     "region": "hoenn"
   },
   {
     "id": 286,
     "name": "breloom",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png",
+    "sprite": "/sprites/pokemon/286.png",
     "region": "hoenn"
   },
   {
     "id": 287,
     "name": "slakoth",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png",
+    "sprite": "/sprites/pokemon/287.png",
     "region": "hoenn"
   },
   {
     "id": 288,
     "name": "vigoroth",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png",
+    "sprite": "/sprites/pokemon/288.png",
     "region": "hoenn"
   },
   {
     "id": 289,
     "name": "slaking",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png",
+    "sprite": "/sprites/pokemon/289.png",
     "region": "hoenn"
   },
   {
     "id": 290,
     "name": "nincada",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png",
+    "sprite": "/sprites/pokemon/290.png",
     "region": "hoenn"
   },
   {
     "id": 291,
     "name": "ninjask",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png",
+    "sprite": "/sprites/pokemon/291.png",
     "region": "hoenn"
   },
   {
     "id": 292,
     "name": "shedinja",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png",
+    "sprite": "/sprites/pokemon/292.png",
     "region": "hoenn"
   },
   {
     "id": 293,
     "name": "whismur",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png",
+    "sprite": "/sprites/pokemon/293.png",
     "region": "hoenn"
   },
   {
     "id": 294,
     "name": "loudred",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png",
+    "sprite": "/sprites/pokemon/294.png",
     "region": "hoenn"
   },
   {
     "id": 295,
     "name": "exploud",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png",
+    "sprite": "/sprites/pokemon/295.png",
     "region": "hoenn"
   },
   {
     "id": 296,
     "name": "makuhita",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png",
+    "sprite": "/sprites/pokemon/296.png",
     "region": "hoenn"
   },
   {
     "id": 297,
     "name": "hariyama",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png",
+    "sprite": "/sprites/pokemon/297.png",
     "region": "hoenn"
   },
   {
     "id": 298,
     "name": "azurill",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png",
+    "sprite": "/sprites/pokemon/298.png",
     "region": "hoenn"
   },
   {
     "id": 299,
     "name": "nosepass",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png",
+    "sprite": "/sprites/pokemon/299.png",
     "region": "hoenn"
   },
   {
     "id": 300,
     "name": "skitty",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png",
+    "sprite": "/sprites/pokemon/300.png",
     "region": "hoenn"
   },
   {
     "id": 301,
     "name": "delcatty",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png",
+    "sprite": "/sprites/pokemon/301.png",
     "region": "hoenn"
   },
   {
     "id": 302,
     "name": "sableye",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png",
+    "sprite": "/sprites/pokemon/302.png",
     "region": "hoenn"
   },
   {
     "id": 303,
     "name": "mawile",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png",
+    "sprite": "/sprites/pokemon/303.png",
     "region": "hoenn"
   },
   {
     "id": 304,
     "name": "aron",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png",
+    "sprite": "/sprites/pokemon/304.png",
     "region": "hoenn"
   },
   {
     "id": 305,
     "name": "lairon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png",
+    "sprite": "/sprites/pokemon/305.png",
     "region": "hoenn"
   },
   {
     "id": 306,
     "name": "aggron",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png",
+    "sprite": "/sprites/pokemon/306.png",
     "region": "hoenn"
   },
   {
     "id": 307,
     "name": "meditite",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png",
+    "sprite": "/sprites/pokemon/307.png",
     "region": "hoenn"
   },
   {
     "id": 308,
     "name": "medicham",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png",
+    "sprite": "/sprites/pokemon/308.png",
     "region": "hoenn"
   },
   {
     "id": 309,
     "name": "electrike",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png",
+    "sprite": "/sprites/pokemon/309.png",
     "region": "hoenn"
   },
   {
     "id": 310,
     "name": "manectric",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png",
+    "sprite": "/sprites/pokemon/310.png",
     "region": "hoenn"
   },
   {
     "id": 311,
     "name": "plusle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png",
+    "sprite": "/sprites/pokemon/311.png",
     "region": "hoenn"
   },
   {
     "id": 312,
     "name": "minun",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png",
+    "sprite": "/sprites/pokemon/312.png",
     "region": "hoenn"
   },
   {
     "id": 313,
     "name": "volbeat",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png",
+    "sprite": "/sprites/pokemon/313.png",
     "region": "hoenn"
   },
   {
     "id": 314,
     "name": "illumise",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png",
+    "sprite": "/sprites/pokemon/314.png",
     "region": "hoenn"
   },
   {
     "id": 315,
     "name": "roselia",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png",
+    "sprite": "/sprites/pokemon/315.png",
     "region": "hoenn"
   },
   {
     "id": 316,
     "name": "gulpin",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png",
+    "sprite": "/sprites/pokemon/316.png",
     "region": "hoenn"
   },
   {
     "id": 317,
     "name": "swalot",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png",
+    "sprite": "/sprites/pokemon/317.png",
     "region": "hoenn"
   },
   {
     "id": 318,
     "name": "carvanha",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png",
+    "sprite": "/sprites/pokemon/318.png",
     "region": "hoenn"
   },
   {
     "id": 319,
     "name": "sharpedo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png",
+    "sprite": "/sprites/pokemon/319.png",
     "region": "hoenn"
   },
   {
     "id": 320,
     "name": "wailmer",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png",
+    "sprite": "/sprites/pokemon/320.png",
     "region": "hoenn"
   },
   {
     "id": 321,
     "name": "wailord",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png",
+    "sprite": "/sprites/pokemon/321.png",
     "region": "hoenn"
   },
   {
     "id": 322,
     "name": "numel",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png",
+    "sprite": "/sprites/pokemon/322.png",
     "region": "hoenn"
   },
   {
     "id": 323,
     "name": "camerupt",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png",
+    "sprite": "/sprites/pokemon/323.png",
     "region": "hoenn"
   },
   {
     "id": 324,
     "name": "torkoal",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png",
+    "sprite": "/sprites/pokemon/324.png",
     "region": "hoenn"
   },
   {
     "id": 325,
     "name": "spoink",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png",
+    "sprite": "/sprites/pokemon/325.png",
     "region": "hoenn"
   },
   {
     "id": 326,
     "name": "grumpig",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png",
+    "sprite": "/sprites/pokemon/326.png",
     "region": "hoenn"
   },
   {
     "id": 327,
     "name": "spinda",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png",
+    "sprite": "/sprites/pokemon/327.png",
     "region": "hoenn"
   },
   {
     "id": 328,
     "name": "trapinch",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png",
+    "sprite": "/sprites/pokemon/328.png",
     "region": "hoenn"
   },
   {
     "id": 329,
     "name": "vibrava",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png",
+    "sprite": "/sprites/pokemon/329.png",
     "region": "hoenn"
   },
   {
     "id": 330,
     "name": "flygon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png",
+    "sprite": "/sprites/pokemon/330.png",
     "region": "hoenn"
   },
   {
     "id": 331,
     "name": "cacnea",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png",
+    "sprite": "/sprites/pokemon/331.png",
     "region": "hoenn"
   },
   {
     "id": 332,
     "name": "cacturne",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png",
+    "sprite": "/sprites/pokemon/332.png",
     "region": "hoenn"
   },
   {
     "id": 333,
     "name": "swablu",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png",
+    "sprite": "/sprites/pokemon/333.png",
     "region": "hoenn"
   },
   {
     "id": 334,
     "name": "altaria",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png",
+    "sprite": "/sprites/pokemon/334.png",
     "region": "hoenn"
   },
   {
     "id": 335,
     "name": "zangoose",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png",
+    "sprite": "/sprites/pokemon/335.png",
     "region": "hoenn"
   },
   {
     "id": 336,
     "name": "seviper",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png",
+    "sprite": "/sprites/pokemon/336.png",
     "region": "hoenn"
   },
   {
     "id": 337,
     "name": "lunatone",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png",
+    "sprite": "/sprites/pokemon/337.png",
     "region": "hoenn"
   },
   {
     "id": 338,
     "name": "solrock",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png",
+    "sprite": "/sprites/pokemon/338.png",
     "region": "hoenn"
   },
   {
     "id": 339,
     "name": "barboach",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png",
+    "sprite": "/sprites/pokemon/339.png",
     "region": "hoenn"
   },
   {
     "id": 340,
     "name": "whiscash",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png",
+    "sprite": "/sprites/pokemon/340.png",
     "region": "hoenn"
   },
   {
     "id": 341,
     "name": "corphish",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png",
+    "sprite": "/sprites/pokemon/341.png",
     "region": "hoenn"
   },
   {
     "id": 342,
     "name": "crawdaunt",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png",
+    "sprite": "/sprites/pokemon/342.png",
     "region": "hoenn"
   },
   {
     "id": 343,
     "name": "baltoy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png",
+    "sprite": "/sprites/pokemon/343.png",
     "region": "hoenn"
   },
   {
     "id": 344,
     "name": "claydol",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png",
+    "sprite": "/sprites/pokemon/344.png",
     "region": "hoenn"
   },
   {
     "id": 345,
     "name": "lileep",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png",
+    "sprite": "/sprites/pokemon/345.png",
     "region": "hoenn"
   },
   {
     "id": 346,
     "name": "cradily",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png",
+    "sprite": "/sprites/pokemon/346.png",
     "region": "hoenn"
   },
   {
     "id": 347,
     "name": "anorith",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png",
+    "sprite": "/sprites/pokemon/347.png",
     "region": "hoenn"
   },
   {
     "id": 348,
     "name": "armaldo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png",
+    "sprite": "/sprites/pokemon/348.png",
     "region": "hoenn"
   },
   {
     "id": 349,
     "name": "feebas",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png",
+    "sprite": "/sprites/pokemon/349.png",
     "region": "hoenn"
   },
   {
     "id": 350,
     "name": "milotic",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png",
+    "sprite": "/sprites/pokemon/350.png",
     "region": "hoenn"
   },
   {
     "id": 351,
     "name": "castform",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png",
+    "sprite": "/sprites/pokemon/351.png",
     "region": "hoenn"
   },
   {
     "id": 352,
     "name": "kecleon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png",
+    "sprite": "/sprites/pokemon/352.png",
     "region": "hoenn"
   },
   {
     "id": 353,
     "name": "shuppet",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/353.png",
+    "sprite": "/sprites/pokemon/353.png",
     "region": "hoenn"
   },
   {
     "id": 354,
     "name": "banette",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png",
+    "sprite": "/sprites/pokemon/354.png",
     "region": "hoenn"
   },
   {
     "id": 355,
     "name": "duskull",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png",
+    "sprite": "/sprites/pokemon/355.png",
     "region": "hoenn"
   },
   {
     "id": 356,
     "name": "dusclops",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png",
+    "sprite": "/sprites/pokemon/356.png",
     "region": "hoenn"
   },
   {
     "id": 357,
     "name": "tropius",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png",
+    "sprite": "/sprites/pokemon/357.png",
     "region": "hoenn"
   },
   {
     "id": 358,
     "name": "chimecho",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png",
+    "sprite": "/sprites/pokemon/358.png",
     "region": "hoenn"
   },
   {
     "id": 359,
     "name": "absol",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png",
+    "sprite": "/sprites/pokemon/359.png",
     "region": "hoenn"
   },
   {
     "id": 360,
     "name": "wynaut",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png",
+    "sprite": "/sprites/pokemon/360.png",
     "region": "hoenn"
   },
   {
     "id": 361,
     "name": "snorunt",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png",
+    "sprite": "/sprites/pokemon/361.png",
     "region": "hoenn"
   },
   {
     "id": 362,
     "name": "glalie",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png",
+    "sprite": "/sprites/pokemon/362.png",
     "region": "hoenn"
   },
   {
     "id": 363,
     "name": "spheal",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png",
+    "sprite": "/sprites/pokemon/363.png",
     "region": "hoenn"
   },
   {
     "id": 364,
     "name": "sealeo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png",
+    "sprite": "/sprites/pokemon/364.png",
     "region": "hoenn"
   },
   {
     "id": 365,
     "name": "walrein",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png",
+    "sprite": "/sprites/pokemon/365.png",
     "region": "hoenn"
   },
   {
     "id": 366,
     "name": "clamperl",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png",
+    "sprite": "/sprites/pokemon/366.png",
     "region": "hoenn"
   },
   {
     "id": 367,
     "name": "huntail",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png",
+    "sprite": "/sprites/pokemon/367.png",
     "region": "hoenn"
   },
   {
     "id": 368,
     "name": "gorebyss",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png",
+    "sprite": "/sprites/pokemon/368.png",
     "region": "hoenn"
   },
   {
     "id": 369,
     "name": "relicanth",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png",
+    "sprite": "/sprites/pokemon/369.png",
     "region": "hoenn"
   },
   {
     "id": 370,
     "name": "luvdisc",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png",
+    "sprite": "/sprites/pokemon/370.png",
     "region": "hoenn"
   },
   {
     "id": 371,
     "name": "bagon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png",
+    "sprite": "/sprites/pokemon/371.png",
     "region": "hoenn"
   },
   {
     "id": 372,
     "name": "shelgon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png",
+    "sprite": "/sprites/pokemon/372.png",
     "region": "hoenn"
   },
   {
     "id": 373,
     "name": "salamence",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png",
+    "sprite": "/sprites/pokemon/373.png",
     "region": "hoenn"
   },
   {
     "id": 374,
     "name": "beldum",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png",
+    "sprite": "/sprites/pokemon/374.png",
     "region": "hoenn"
   },
   {
     "id": 375,
     "name": "metang",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png",
+    "sprite": "/sprites/pokemon/375.png",
     "region": "hoenn"
   },
   {
     "id": 376,
     "name": "metagross",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png",
+    "sprite": "/sprites/pokemon/376.png",
     "region": "hoenn"
   },
   {
     "id": 377,
     "name": "regirock",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png",
+    "sprite": "/sprites/pokemon/377.png",
     "region": "hoenn"
   },
   {
     "id": 378,
     "name": "regice",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png",
+    "sprite": "/sprites/pokemon/378.png",
     "region": "hoenn"
   },
   {
     "id": 379,
     "name": "registeel",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png",
+    "sprite": "/sprites/pokemon/379.png",
     "region": "hoenn"
   },
   {
     "id": 380,
     "name": "latias",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png",
+    "sprite": "/sprites/pokemon/380.png",
     "region": "hoenn"
   },
   {
     "id": 381,
     "name": "latios",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png",
+    "sprite": "/sprites/pokemon/381.png",
     "region": "hoenn"
   },
   {
     "id": 382,
     "name": "kyogre",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png",
+    "sprite": "/sprites/pokemon/382.png",
     "region": "hoenn"
   },
   {
     "id": 383,
     "name": "groudon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png",
+    "sprite": "/sprites/pokemon/383.png",
     "region": "hoenn"
   },
   {
     "id": 384,
     "name": "rayquaza",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png",
+    "sprite": "/sprites/pokemon/384.png",
     "region": "hoenn"
   },
   {
     "id": 385,
     "name": "jirachi",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png",
+    "sprite": "/sprites/pokemon/385.png",
     "region": "hoenn"
   },
   {
     "id": 386,
     "name": "deoxys-normal",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png",
+    "sprite": "/sprites/pokemon/386.png",
     "region": "hoenn"
   },
   {
     "id": 387,
     "name": "turtwig",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png",
+    "sprite": "/sprites/pokemon/387.png",
     "region": "sinnoh"
   },
   {
     "id": 388,
     "name": "grotle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png",
+    "sprite": "/sprites/pokemon/388.png",
     "region": "sinnoh"
   },
   {
     "id": 389,
     "name": "torterra",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png",
+    "sprite": "/sprites/pokemon/389.png",
     "region": "sinnoh"
   },
   {
     "id": 390,
     "name": "chimchar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png",
+    "sprite": "/sprites/pokemon/390.png",
     "region": "sinnoh"
   },
   {
     "id": 391,
     "name": "monferno",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/391.png",
+    "sprite": "/sprites/pokemon/391.png",
     "region": "sinnoh"
   },
   {
     "id": 392,
     "name": "infernape",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png",
+    "sprite": "/sprites/pokemon/392.png",
     "region": "sinnoh"
   },
   {
     "id": 393,
     "name": "piplup",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png",
+    "sprite": "/sprites/pokemon/393.png",
     "region": "sinnoh"
   },
   {
     "id": 394,
     "name": "prinplup",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png",
+    "sprite": "/sprites/pokemon/394.png",
     "region": "sinnoh"
   },
   {
     "id": 395,
     "name": "empoleon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png",
+    "sprite": "/sprites/pokemon/395.png",
     "region": "sinnoh"
   },
   {
     "id": 396,
     "name": "starly",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png",
+    "sprite": "/sprites/pokemon/396.png",
     "region": "sinnoh"
   },
   {
     "id": 397,
     "name": "staravia",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png",
+    "sprite": "/sprites/pokemon/397.png",
     "region": "sinnoh"
   },
   {
     "id": 398,
     "name": "staraptor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png",
+    "sprite": "/sprites/pokemon/398.png",
     "region": "sinnoh"
   },
   {
     "id": 399,
     "name": "bidoof",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png",
+    "sprite": "/sprites/pokemon/399.png",
     "region": "sinnoh"
   },
   {
     "id": 400,
     "name": "bibarel",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png",
+    "sprite": "/sprites/pokemon/400.png",
     "region": "sinnoh"
   },
   {
     "id": 401,
     "name": "kricketot",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png",
+    "sprite": "/sprites/pokemon/401.png",
     "region": "sinnoh"
   },
   {
     "id": 402,
     "name": "kricketune",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png",
+    "sprite": "/sprites/pokemon/402.png",
     "region": "sinnoh"
   },
   {
     "id": 403,
     "name": "shinx",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/403.png",
+    "sprite": "/sprites/pokemon/403.png",
     "region": "sinnoh"
   },
   {
     "id": 404,
     "name": "luxio",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png",
+    "sprite": "/sprites/pokemon/404.png",
     "region": "sinnoh"
   },
   {
     "id": 405,
     "name": "luxray",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png",
+    "sprite": "/sprites/pokemon/405.png",
     "region": "sinnoh"
   },
   {
     "id": 406,
     "name": "budew",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png",
+    "sprite": "/sprites/pokemon/406.png",
     "region": "sinnoh"
   },
   {
     "id": 407,
     "name": "roserade",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png",
+    "sprite": "/sprites/pokemon/407.png",
     "region": "sinnoh"
   },
   {
     "id": 408,
     "name": "cranidos",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png",
+    "sprite": "/sprites/pokemon/408.png",
     "region": "sinnoh"
   },
   {
     "id": 409,
     "name": "rampardos",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png",
+    "sprite": "/sprites/pokemon/409.png",
     "region": "sinnoh"
   },
   {
     "id": 410,
     "name": "shieldon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/410.png",
+    "sprite": "/sprites/pokemon/410.png",
     "region": "sinnoh"
   },
   {
     "id": 411,
     "name": "bastiodon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png",
+    "sprite": "/sprites/pokemon/411.png",
     "region": "sinnoh"
   },
   {
     "id": 412,
     "name": "burmy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png",
+    "sprite": "/sprites/pokemon/412.png",
     "region": "sinnoh"
   },
   {
     "id": 413,
     "name": "wormadam-plant",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png",
+    "sprite": "/sprites/pokemon/413.png",
     "region": "sinnoh"
   },
   {
     "id": 414,
     "name": "mothim",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png",
+    "sprite": "/sprites/pokemon/414.png",
     "region": "sinnoh"
   },
   {
     "id": 415,
     "name": "combee",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png",
+    "sprite": "/sprites/pokemon/415.png",
     "region": "sinnoh"
   },
   {
     "id": 416,
     "name": "vespiquen",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png",
+    "sprite": "/sprites/pokemon/416.png",
     "region": "sinnoh"
   },
   {
     "id": 417,
     "name": "pachirisu",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png",
+    "sprite": "/sprites/pokemon/417.png",
     "region": "sinnoh"
   },
   {
     "id": 418,
     "name": "buizel",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png",
+    "sprite": "/sprites/pokemon/418.png",
     "region": "sinnoh"
   },
   {
     "id": 419,
     "name": "floatzel",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png",
+    "sprite": "/sprites/pokemon/419.png",
     "region": "sinnoh"
   },
   {
     "id": 420,
     "name": "cherubi",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png",
+    "sprite": "/sprites/pokemon/420.png",
     "region": "sinnoh"
   },
   {
     "id": 421,
     "name": "cherrim",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png",
+    "sprite": "/sprites/pokemon/421.png",
     "region": "sinnoh"
   },
   {
     "id": 422,
     "name": "shellos",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png",
+    "sprite": "/sprites/pokemon/422.png",
     "region": "sinnoh"
   },
   {
     "id": 423,
     "name": "gastrodon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png",
+    "sprite": "/sprites/pokemon/423.png",
     "region": "sinnoh"
   },
   {
     "id": 424,
     "name": "ambipom",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png",
+    "sprite": "/sprites/pokemon/424.png",
     "region": "sinnoh"
   },
   {
     "id": 425,
     "name": "drifloon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png",
+    "sprite": "/sprites/pokemon/425.png",
     "region": "sinnoh"
   },
   {
     "id": 426,
     "name": "drifblim",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png",
+    "sprite": "/sprites/pokemon/426.png",
     "region": "sinnoh"
   },
   {
     "id": 427,
     "name": "buneary",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png",
+    "sprite": "/sprites/pokemon/427.png",
     "region": "sinnoh"
   },
   {
     "id": 428,
     "name": "lopunny",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png",
+    "sprite": "/sprites/pokemon/428.png",
     "region": "sinnoh"
   },
   {
     "id": 429,
     "name": "mismagius",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png",
+    "sprite": "/sprites/pokemon/429.png",
     "region": "sinnoh"
   },
   {
     "id": 430,
     "name": "honchkrow",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png",
+    "sprite": "/sprites/pokemon/430.png",
     "region": "sinnoh"
   },
   {
     "id": 431,
     "name": "glameow",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png",
+    "sprite": "/sprites/pokemon/431.png",
     "region": "sinnoh"
   },
   {
     "id": 432,
     "name": "purugly",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png",
+    "sprite": "/sprites/pokemon/432.png",
     "region": "sinnoh"
   },
   {
     "id": 433,
     "name": "chingling",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png",
+    "sprite": "/sprites/pokemon/433.png",
     "region": "sinnoh"
   },
   {
     "id": 434,
     "name": "stunky",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png",
+    "sprite": "/sprites/pokemon/434.png",
     "region": "sinnoh"
   },
   {
     "id": 435,
     "name": "skuntank",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png",
+    "sprite": "/sprites/pokemon/435.png",
     "region": "sinnoh"
   },
   {
     "id": 436,
     "name": "bronzor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png",
+    "sprite": "/sprites/pokemon/436.png",
     "region": "sinnoh"
   },
   {
     "id": 437,
     "name": "bronzong",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png",
+    "sprite": "/sprites/pokemon/437.png",
     "region": "sinnoh"
   },
   {
     "id": 438,
     "name": "bonsly",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png",
+    "sprite": "/sprites/pokemon/438.png",
     "region": "sinnoh"
   },
   {
     "id": 439,
     "name": "mime-jr",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png",
+    "sprite": "/sprites/pokemon/439.png",
     "region": "sinnoh"
   },
   {
     "id": 440,
     "name": "happiny",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png",
+    "sprite": "/sprites/pokemon/440.png",
     "region": "sinnoh"
   },
   {
     "id": 441,
     "name": "chatot",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png",
+    "sprite": "/sprites/pokemon/441.png",
     "region": "sinnoh"
   },
   {
     "id": 442,
     "name": "spiritomb",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png",
+    "sprite": "/sprites/pokemon/442.png",
     "region": "sinnoh"
   },
   {
     "id": 443,
     "name": "gible",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/443.png",
+    "sprite": "/sprites/pokemon/443.png",
     "region": "sinnoh"
   },
   {
     "id": 444,
     "name": "gabite",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png",
+    "sprite": "/sprites/pokemon/444.png",
     "region": "sinnoh"
   },
   {
     "id": 445,
     "name": "garchomp",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png",
+    "sprite": "/sprites/pokemon/445.png",
     "region": "sinnoh"
   },
   {
     "id": 446,
     "name": "munchlax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png",
+    "sprite": "/sprites/pokemon/446.png",
     "region": "sinnoh"
   },
   {
     "id": 447,
     "name": "riolu",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png",
+    "sprite": "/sprites/pokemon/447.png",
     "region": "sinnoh"
   },
   {
     "id": 448,
     "name": "lucario",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png",
+    "sprite": "/sprites/pokemon/448.png",
     "region": "sinnoh"
   },
   {
     "id": 449,
     "name": "hippopotas",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/449.png",
+    "sprite": "/sprites/pokemon/449.png",
     "region": "sinnoh"
   },
   {
     "id": 450,
     "name": "hippowdon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png",
+    "sprite": "/sprites/pokemon/450.png",
     "region": "sinnoh"
   },
   {
     "id": 451,
     "name": "skorupi",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png",
+    "sprite": "/sprites/pokemon/451.png",
     "region": "sinnoh"
   },
   {
     "id": 452,
     "name": "drapion",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png",
+    "sprite": "/sprites/pokemon/452.png",
     "region": "sinnoh"
   },
   {
     "id": 453,
     "name": "croagunk",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png",
+    "sprite": "/sprites/pokemon/453.png",
     "region": "sinnoh"
   },
   {
     "id": 454,
     "name": "toxicroak",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png",
+    "sprite": "/sprites/pokemon/454.png",
     "region": "sinnoh"
   },
   {
     "id": 455,
     "name": "carnivine",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png",
+    "sprite": "/sprites/pokemon/455.png",
     "region": "sinnoh"
   },
   {
     "id": 456,
     "name": "finneon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png",
+    "sprite": "/sprites/pokemon/456.png",
     "region": "sinnoh"
   },
   {
     "id": 457,
     "name": "lumineon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png",
+    "sprite": "/sprites/pokemon/457.png",
     "region": "sinnoh"
   },
   {
     "id": 458,
     "name": "mantyke",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/458.png",
+    "sprite": "/sprites/pokemon/458.png",
     "region": "sinnoh"
   },
   {
     "id": 459,
     "name": "snover",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png",
+    "sprite": "/sprites/pokemon/459.png",
     "region": "sinnoh"
   },
   {
     "id": 460,
     "name": "abomasnow",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png",
+    "sprite": "/sprites/pokemon/460.png",
     "region": "sinnoh"
   },
   {
     "id": 461,
     "name": "weavile",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png",
+    "sprite": "/sprites/pokemon/461.png",
     "region": "sinnoh"
   },
   {
     "id": 462,
     "name": "magnezone",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png",
+    "sprite": "/sprites/pokemon/462.png",
     "region": "sinnoh"
   },
   {
     "id": 463,
     "name": "lickilicky",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png",
+    "sprite": "/sprites/pokemon/463.png",
     "region": "sinnoh"
   },
   {
     "id": 464,
     "name": "rhyperior",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png",
+    "sprite": "/sprites/pokemon/464.png",
     "region": "sinnoh"
   },
   {
     "id": 465,
     "name": "tangrowth",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png",
+    "sprite": "/sprites/pokemon/465.png",
     "region": "sinnoh"
   },
   {
     "id": 466,
     "name": "electivire",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png",
+    "sprite": "/sprites/pokemon/466.png",
     "region": "sinnoh"
   },
   {
     "id": 467,
     "name": "magmortar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png",
+    "sprite": "/sprites/pokemon/467.png",
     "region": "sinnoh"
   },
   {
     "id": 468,
     "name": "togekiss",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png",
+    "sprite": "/sprites/pokemon/468.png",
     "region": "sinnoh"
   },
   {
     "id": 469,
     "name": "yanmega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png",
+    "sprite": "/sprites/pokemon/469.png",
     "region": "sinnoh"
   },
   {
     "id": 470,
     "name": "leafeon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png",
+    "sprite": "/sprites/pokemon/470.png",
     "region": "sinnoh"
   },
   {
     "id": 471,
     "name": "glaceon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png",
+    "sprite": "/sprites/pokemon/471.png",
     "region": "sinnoh"
   },
   {
     "id": 472,
     "name": "gliscor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png",
+    "sprite": "/sprites/pokemon/472.png",
     "region": "sinnoh"
   },
   {
     "id": 473,
     "name": "mamoswine",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png",
+    "sprite": "/sprites/pokemon/473.png",
     "region": "sinnoh"
   },
   {
     "id": 474,
     "name": "porygon-z",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png",
+    "sprite": "/sprites/pokemon/474.png",
     "region": "sinnoh"
   },
   {
     "id": 475,
     "name": "gallade",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png",
+    "sprite": "/sprites/pokemon/475.png",
     "region": "sinnoh"
   },
   {
     "id": 476,
     "name": "probopass",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png",
+    "sprite": "/sprites/pokemon/476.png",
     "region": "sinnoh"
   },
   {
     "id": 477,
     "name": "dusknoir",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png",
+    "sprite": "/sprites/pokemon/477.png",
     "region": "sinnoh"
   },
   {
     "id": 478,
     "name": "froslass",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png",
+    "sprite": "/sprites/pokemon/478.png",
     "region": "sinnoh"
   },
   {
     "id": 479,
     "name": "rotom",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png",
+    "sprite": "/sprites/pokemon/479.png",
     "region": "sinnoh"
   },
   {
     "id": 480,
     "name": "uxie",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/480.png",
+    "sprite": "/sprites/pokemon/480.png",
     "region": "sinnoh"
   },
   {
     "id": 481,
     "name": "mesprit",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png",
+    "sprite": "/sprites/pokemon/481.png",
     "region": "sinnoh"
   },
   {
     "id": 482,
     "name": "azelf",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/482.png",
+    "sprite": "/sprites/pokemon/482.png",
     "region": "sinnoh"
   },
   {
     "id": 483,
     "name": "dialga",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png",
+    "sprite": "/sprites/pokemon/483.png",
     "region": "sinnoh"
   },
   {
     "id": 484,
     "name": "palkia",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png",
+    "sprite": "/sprites/pokemon/484.png",
     "region": "sinnoh"
   },
   {
     "id": 485,
     "name": "heatran",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/485.png",
+    "sprite": "/sprites/pokemon/485.png",
     "region": "sinnoh"
   },
   {
     "id": 486,
     "name": "regigigas",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/486.png",
+    "sprite": "/sprites/pokemon/486.png",
     "region": "sinnoh"
   },
   {
     "id": 487,
     "name": "giratina-altered",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png",
+    "sprite": "/sprites/pokemon/487.png",
     "region": "sinnoh"
   },
   {
     "id": 488,
     "name": "cresselia",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png",
+    "sprite": "/sprites/pokemon/488.png",
     "region": "sinnoh"
   },
   {
     "id": 489,
     "name": "phione",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/489.png",
+    "sprite": "/sprites/pokemon/489.png",
     "region": "sinnoh"
   },
   {
     "id": 490,
     "name": "manaphy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/490.png",
+    "sprite": "/sprites/pokemon/490.png",
     "region": "sinnoh"
   },
   {
     "id": 491,
     "name": "darkrai",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png",
+    "sprite": "/sprites/pokemon/491.png",
     "region": "sinnoh"
   },
   {
     "id": 492,
     "name": "shaymin-land",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png",
+    "sprite": "/sprites/pokemon/492.png",
     "region": "sinnoh"
   },
   {
     "id": 493,
     "name": "arceus",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png",
+    "sprite": "/sprites/pokemon/493.png",
     "region": "sinnoh"
   },
   {
     "id": 494,
     "name": "victini",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png",
+    "sprite": "/sprites/pokemon/494.png",
     "region": "unova"
   },
   {
     "id": 495,
     "name": "snivy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png",
+    "sprite": "/sprites/pokemon/495.png",
     "region": "unova"
   },
   {
     "id": 496,
     "name": "servine",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/496.png",
+    "sprite": "/sprites/pokemon/496.png",
     "region": "unova"
   },
   {
     "id": 497,
     "name": "serperior",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png",
+    "sprite": "/sprites/pokemon/497.png",
     "region": "unova"
   },
   {
     "id": 498,
     "name": "tepig",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png",
+    "sprite": "/sprites/pokemon/498.png",
     "region": "unova"
   },
   {
     "id": 499,
     "name": "pignite",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/499.png",
+    "sprite": "/sprites/pokemon/499.png",
     "region": "unova"
   },
   {
     "id": 500,
     "name": "emboar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png",
+    "sprite": "/sprites/pokemon/500.png",
     "region": "unova"
   },
   {
     "id": 501,
     "name": "oshawott",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png",
+    "sprite": "/sprites/pokemon/501.png",
     "region": "unova"
   },
   {
     "id": 502,
     "name": "dewott",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/502.png",
+    "sprite": "/sprites/pokemon/502.png",
     "region": "unova"
   },
   {
     "id": 503,
     "name": "samurott",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png",
+    "sprite": "/sprites/pokemon/503.png",
     "region": "unova"
   },
   {
     "id": 504,
     "name": "patrat",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png",
+    "sprite": "/sprites/pokemon/504.png",
     "region": "unova"
   },
   {
     "id": 505,
     "name": "watchog",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png",
+    "sprite": "/sprites/pokemon/505.png",
     "region": "unova"
   },
   {
     "id": 506,
     "name": "lillipup",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png",
+    "sprite": "/sprites/pokemon/506.png",
     "region": "unova"
   },
   {
     "id": 507,
     "name": "herdier",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png",
+    "sprite": "/sprites/pokemon/507.png",
     "region": "unova"
   },
   {
     "id": 508,
     "name": "stoutland",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png",
+    "sprite": "/sprites/pokemon/508.png",
     "region": "unova"
   },
   {
     "id": 509,
     "name": "purrloin",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/509.png",
+    "sprite": "/sprites/pokemon/509.png",
     "region": "unova"
   },
   {
     "id": 510,
     "name": "liepard",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png",
+    "sprite": "/sprites/pokemon/510.png",
     "region": "unova"
   },
   {
     "id": 511,
     "name": "pansage",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png",
+    "sprite": "/sprites/pokemon/511.png",
     "region": "unova"
   },
   {
     "id": 512,
     "name": "simisage",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/512.png",
+    "sprite": "/sprites/pokemon/512.png",
     "region": "unova"
   },
   {
     "id": 513,
     "name": "pansear",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png",
+    "sprite": "/sprites/pokemon/513.png",
     "region": "unova"
   },
   {
     "id": 514,
     "name": "simisear",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png",
+    "sprite": "/sprites/pokemon/514.png",
     "region": "unova"
   },
   {
     "id": 515,
     "name": "panpour",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/515.png",
+    "sprite": "/sprites/pokemon/515.png",
     "region": "unova"
   },
   {
     "id": 516,
     "name": "simipour",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/516.png",
+    "sprite": "/sprites/pokemon/516.png",
     "region": "unova"
   },
   {
     "id": 517,
     "name": "munna",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/517.png",
+    "sprite": "/sprites/pokemon/517.png",
     "region": "unova"
   },
   {
     "id": 518,
     "name": "musharna",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png",
+    "sprite": "/sprites/pokemon/518.png",
     "region": "unova"
   },
   {
     "id": 519,
     "name": "pidove",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/519.png",
+    "sprite": "/sprites/pokemon/519.png",
     "region": "unova"
   },
   {
     "id": 520,
     "name": "tranquill",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/520.png",
+    "sprite": "/sprites/pokemon/520.png",
     "region": "unova"
   },
   {
     "id": 521,
     "name": "unfezant",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/521.png",
+    "sprite": "/sprites/pokemon/521.png",
     "region": "unova"
   },
   {
     "id": 522,
     "name": "blitzle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png",
+    "sprite": "/sprites/pokemon/522.png",
     "region": "unova"
   },
   {
     "id": 523,
     "name": "zebstrika",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/523.png",
+    "sprite": "/sprites/pokemon/523.png",
     "region": "unova"
   },
   {
     "id": 524,
     "name": "roggenrola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/524.png",
+    "sprite": "/sprites/pokemon/524.png",
     "region": "unova"
   },
   {
     "id": 525,
     "name": "boldore",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/525.png",
+    "sprite": "/sprites/pokemon/525.png",
     "region": "unova"
   },
   {
     "id": 526,
     "name": "gigalith",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png",
+    "sprite": "/sprites/pokemon/526.png",
     "region": "unova"
   },
   {
     "id": 527,
     "name": "woobat",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/527.png",
+    "sprite": "/sprites/pokemon/527.png",
     "region": "unova"
   },
   {
     "id": 528,
     "name": "swoobat",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png",
+    "sprite": "/sprites/pokemon/528.png",
     "region": "unova"
   },
   {
     "id": 529,
     "name": "drilbur",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png",
+    "sprite": "/sprites/pokemon/529.png",
     "region": "unova"
   },
   {
     "id": 530,
     "name": "excadrill",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png",
+    "sprite": "/sprites/pokemon/530.png",
     "region": "unova"
   },
   {
     "id": 531,
     "name": "audino",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png",
+    "sprite": "/sprites/pokemon/531.png",
     "region": "unova"
   },
   {
     "id": 532,
     "name": "timburr",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/532.png",
+    "sprite": "/sprites/pokemon/532.png",
     "region": "unova"
   },
   {
     "id": 533,
     "name": "gurdurr",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png",
+    "sprite": "/sprites/pokemon/533.png",
     "region": "unova"
   },
   {
     "id": 534,
     "name": "conkeldurr",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png",
+    "sprite": "/sprites/pokemon/534.png",
     "region": "unova"
   },
   {
     "id": 535,
     "name": "tympole",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png",
+    "sprite": "/sprites/pokemon/535.png",
     "region": "unova"
   },
   {
     "id": 536,
     "name": "palpitoad",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/536.png",
+    "sprite": "/sprites/pokemon/536.png",
     "region": "unova"
   },
   {
     "id": 537,
     "name": "seismitoad",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png",
+    "sprite": "/sprites/pokemon/537.png",
     "region": "unova"
   },
   {
     "id": 538,
     "name": "throh",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png",
+    "sprite": "/sprites/pokemon/538.png",
     "region": "unova"
   },
   {
     "id": 539,
     "name": "sawk",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png",
+    "sprite": "/sprites/pokemon/539.png",
     "region": "unova"
   },
   {
     "id": 540,
     "name": "sewaddle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/540.png",
+    "sprite": "/sprites/pokemon/540.png",
     "region": "unova"
   },
   {
     "id": 541,
     "name": "swadloon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/541.png",
+    "sprite": "/sprites/pokemon/541.png",
     "region": "unova"
   },
   {
     "id": 542,
     "name": "leavanny",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png",
+    "sprite": "/sprites/pokemon/542.png",
     "region": "unova"
   },
   {
     "id": 543,
     "name": "venipede",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/543.png",
+    "sprite": "/sprites/pokemon/543.png",
     "region": "unova"
   },
   {
     "id": 544,
     "name": "whirlipede",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/544.png",
+    "sprite": "/sprites/pokemon/544.png",
     "region": "unova"
   },
   {
     "id": 545,
     "name": "scolipede",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png",
+    "sprite": "/sprites/pokemon/545.png",
     "region": "unova"
   },
   {
     "id": 546,
     "name": "cottonee",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png",
+    "sprite": "/sprites/pokemon/546.png",
     "region": "unova"
   },
   {
     "id": 547,
     "name": "whimsicott",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/547.png",
+    "sprite": "/sprites/pokemon/547.png",
     "region": "unova"
   },
   {
     "id": 548,
     "name": "petilil",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png",
+    "sprite": "/sprites/pokemon/548.png",
     "region": "unova"
   },
   {
     "id": 549,
     "name": "lilligant",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/549.png",
+    "sprite": "/sprites/pokemon/549.png",
     "region": "unova"
   },
   {
     "id": 550,
     "name": "basculin-red-striped",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550.png",
+    "sprite": "/sprites/pokemon/550.png",
     "region": "unova"
   },
   {
     "id": 551,
     "name": "sandile",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/551.png",
+    "sprite": "/sprites/pokemon/551.png",
     "region": "unova"
   },
   {
     "id": 552,
     "name": "krokorok",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png",
+    "sprite": "/sprites/pokemon/552.png",
     "region": "unova"
   },
   {
     "id": 553,
     "name": "krookodile",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png",
+    "sprite": "/sprites/pokemon/553.png",
     "region": "unova"
   },
   {
     "id": 554,
     "name": "darumaka",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png",
+    "sprite": "/sprites/pokemon/554.png",
     "region": "unova"
   },
   {
     "id": 555,
     "name": "darmanitan-standard",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png",
+    "sprite": "/sprites/pokemon/555.png",
     "region": "unova"
   },
   {
     "id": 556,
     "name": "maractus",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png",
+    "sprite": "/sprites/pokemon/556.png",
     "region": "unova"
   },
   {
     "id": 557,
     "name": "dwebble",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png",
+    "sprite": "/sprites/pokemon/557.png",
     "region": "unova"
   },
   {
     "id": 558,
     "name": "crustle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/558.png",
+    "sprite": "/sprites/pokemon/558.png",
     "region": "unova"
   },
   {
     "id": 559,
     "name": "scraggy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png",
+    "sprite": "/sprites/pokemon/559.png",
     "region": "unova"
   },
   {
     "id": 560,
     "name": "scrafty",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/560.png",
+    "sprite": "/sprites/pokemon/560.png",
     "region": "unova"
   },
   {
     "id": 561,
     "name": "sigilyph",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/561.png",
+    "sprite": "/sprites/pokemon/561.png",
     "region": "unova"
   },
   {
     "id": 562,
     "name": "yamask",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png",
+    "sprite": "/sprites/pokemon/562.png",
     "region": "unova"
   },
   {
     "id": 563,
     "name": "cofagrigus",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/563.png",
+    "sprite": "/sprites/pokemon/563.png",
     "region": "unova"
   },
   {
     "id": 564,
     "name": "tirtouga",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/564.png",
+    "sprite": "/sprites/pokemon/564.png",
     "region": "unova"
   },
   {
     "id": 565,
     "name": "carracosta",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png",
+    "sprite": "/sprites/pokemon/565.png",
     "region": "unova"
   },
   {
     "id": 566,
     "name": "archen",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/566.png",
+    "sprite": "/sprites/pokemon/566.png",
     "region": "unova"
   },
   {
     "id": 567,
     "name": "archeops",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/567.png",
+    "sprite": "/sprites/pokemon/567.png",
     "region": "unova"
   },
   {
     "id": 568,
     "name": "trubbish",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/568.png",
+    "sprite": "/sprites/pokemon/568.png",
     "region": "unova"
   },
   {
     "id": 569,
     "name": "garbodor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png",
+    "sprite": "/sprites/pokemon/569.png",
     "region": "unova"
   },
   {
     "id": 570,
     "name": "zorua",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png",
+    "sprite": "/sprites/pokemon/570.png",
     "region": "unova"
   },
   {
     "id": 571,
     "name": "zoroark",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png",
+    "sprite": "/sprites/pokemon/571.png",
     "region": "unova"
   },
   {
     "id": 572,
     "name": "minccino",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png",
+    "sprite": "/sprites/pokemon/572.png",
     "region": "unova"
   },
   {
     "id": 573,
     "name": "cinccino",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png",
+    "sprite": "/sprites/pokemon/573.png",
     "region": "unova"
   },
   {
     "id": 574,
     "name": "gothita",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png",
+    "sprite": "/sprites/pokemon/574.png",
     "region": "unova"
   },
   {
     "id": 575,
     "name": "gothorita",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/575.png",
+    "sprite": "/sprites/pokemon/575.png",
     "region": "unova"
   },
   {
     "id": 576,
     "name": "gothitelle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png",
+    "sprite": "/sprites/pokemon/576.png",
     "region": "unova"
   },
   {
     "id": 577,
     "name": "solosis",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/577.png",
+    "sprite": "/sprites/pokemon/577.png",
     "region": "unova"
   },
   {
     "id": 578,
     "name": "duosion",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png",
+    "sprite": "/sprites/pokemon/578.png",
     "region": "unova"
   },
   {
     "id": 579,
     "name": "reuniclus",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png",
+    "sprite": "/sprites/pokemon/579.png",
     "region": "unova"
   },
   {
     "id": 580,
     "name": "ducklett",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/580.png",
+    "sprite": "/sprites/pokemon/580.png",
     "region": "unova"
   },
   {
     "id": 581,
     "name": "swanna",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png",
+    "sprite": "/sprites/pokemon/581.png",
     "region": "unova"
   },
   {
     "id": 582,
     "name": "vanillite",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png",
+    "sprite": "/sprites/pokemon/582.png",
     "region": "unova"
   },
   {
     "id": 583,
     "name": "vanillish",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/583.png",
+    "sprite": "/sprites/pokemon/583.png",
     "region": "unova"
   },
   {
     "id": 584,
     "name": "vanilluxe",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png",
+    "sprite": "/sprites/pokemon/584.png",
     "region": "unova"
   },
   {
     "id": 585,
     "name": "deerling",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585.png",
+    "sprite": "/sprites/pokemon/585.png",
     "region": "unova"
   },
   {
     "id": 586,
     "name": "sawsbuck",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586.png",
+    "sprite": "/sprites/pokemon/586.png",
     "region": "unova"
   },
   {
     "id": 587,
     "name": "emolga",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/587.png",
+    "sprite": "/sprites/pokemon/587.png",
     "region": "unova"
   },
   {
     "id": 588,
     "name": "karrablast",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png",
+    "sprite": "/sprites/pokemon/588.png",
     "region": "unova"
   },
   {
     "id": 589,
     "name": "escavalier",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/589.png",
+    "sprite": "/sprites/pokemon/589.png",
     "region": "unova"
   },
   {
     "id": 590,
     "name": "foongus",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png",
+    "sprite": "/sprites/pokemon/590.png",
     "region": "unova"
   },
   {
     "id": 591,
     "name": "amoonguss",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/591.png",
+    "sprite": "/sprites/pokemon/591.png",
     "region": "unova"
   },
   {
     "id": 592,
     "name": "frillish-male",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/592.png",
+    "sprite": "/sprites/pokemon/592.png",
     "region": "unova"
   },
   {
     "id": 593,
     "name": "jellicent-male",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png",
+    "sprite": "/sprites/pokemon/593.png",
     "region": "unova"
   },
   {
     "id": 594,
     "name": "alomomola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/594.png",
+    "sprite": "/sprites/pokemon/594.png",
     "region": "unova"
   },
   {
     "id": 595,
     "name": "joltik",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/595.png",
+    "sprite": "/sprites/pokemon/595.png",
     "region": "unova"
   },
   {
     "id": 596,
     "name": "galvantula",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png",
+    "sprite": "/sprites/pokemon/596.png",
     "region": "unova"
   },
   {
     "id": 597,
     "name": "ferroseed",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/597.png",
+    "sprite": "/sprites/pokemon/597.png",
     "region": "unova"
   },
   {
     "id": 598,
     "name": "ferrothorn",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png",
+    "sprite": "/sprites/pokemon/598.png",
     "region": "unova"
   },
   {
     "id": 599,
     "name": "klink",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/599.png",
+    "sprite": "/sprites/pokemon/599.png",
     "region": "unova"
   },
   {
     "id": 600,
     "name": "klang",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/600.png",
+    "sprite": "/sprites/pokemon/600.png",
     "region": "unova"
   },
   {
     "id": 601,
     "name": "klinklang",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/601.png",
+    "sprite": "/sprites/pokemon/601.png",
     "region": "unova"
   },
   {
     "id": 602,
     "name": "tynamo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/602.png",
+    "sprite": "/sprites/pokemon/602.png",
     "region": "unova"
   },
   {
     "id": 603,
     "name": "eelektrik",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/603.png",
+    "sprite": "/sprites/pokemon/603.png",
     "region": "unova"
   },
   {
     "id": 604,
     "name": "eelektross",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png",
+    "sprite": "/sprites/pokemon/604.png",
     "region": "unova"
   },
   {
     "id": 605,
     "name": "elgyem",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png",
+    "sprite": "/sprites/pokemon/605.png",
     "region": "unova"
   },
   {
     "id": 606,
     "name": "beheeyem",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/606.png",
+    "sprite": "/sprites/pokemon/606.png",
     "region": "unova"
   },
   {
     "id": 607,
     "name": "litwick",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png",
+    "sprite": "/sprites/pokemon/607.png",
     "region": "unova"
   },
   {
     "id": 608,
     "name": "lampent",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png",
+    "sprite": "/sprites/pokemon/608.png",
     "region": "unova"
   },
   {
     "id": 609,
     "name": "chandelure",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/609.png",
+    "sprite": "/sprites/pokemon/609.png",
     "region": "unova"
   },
   {
     "id": 610,
     "name": "axew",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png",
+    "sprite": "/sprites/pokemon/610.png",
     "region": "unova"
   },
   {
     "id": 611,
     "name": "fraxure",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png",
+    "sprite": "/sprites/pokemon/611.png",
     "region": "unova"
   },
   {
     "id": 612,
     "name": "haxorus",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png",
+    "sprite": "/sprites/pokemon/612.png",
     "region": "unova"
   },
   {
     "id": 613,
     "name": "cubchoo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/613.png",
+    "sprite": "/sprites/pokemon/613.png",
     "region": "unova"
   },
   {
     "id": 614,
     "name": "beartic",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png",
+    "sprite": "/sprites/pokemon/614.png",
     "region": "unova"
   },
   {
     "id": 615,
     "name": "cryogonal",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png",
+    "sprite": "/sprites/pokemon/615.png",
     "region": "unova"
   },
   {
     "id": 616,
     "name": "shelmet",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/616.png",
+    "sprite": "/sprites/pokemon/616.png",
     "region": "unova"
   },
   {
     "id": 617,
     "name": "accelgor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/617.png",
+    "sprite": "/sprites/pokemon/617.png",
     "region": "unova"
   },
   {
     "id": 618,
     "name": "stunfisk",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/618.png",
+    "sprite": "/sprites/pokemon/618.png",
     "region": "unova"
   },
   {
     "id": 619,
     "name": "mienfoo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png",
+    "sprite": "/sprites/pokemon/619.png",
     "region": "unova"
   },
   {
     "id": 620,
     "name": "mienshao",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/620.png",
+    "sprite": "/sprites/pokemon/620.png",
     "region": "unova"
   },
   {
     "id": 621,
     "name": "druddigon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/621.png",
+    "sprite": "/sprites/pokemon/621.png",
     "region": "unova"
   },
   {
     "id": 622,
     "name": "golett",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/622.png",
+    "sprite": "/sprites/pokemon/622.png",
     "region": "unova"
   },
   {
     "id": 623,
     "name": "golurk",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png",
+    "sprite": "/sprites/pokemon/623.png",
     "region": "unova"
   },
   {
     "id": 624,
     "name": "pawniard",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/624.png",
+    "sprite": "/sprites/pokemon/624.png",
     "region": "unova"
   },
   {
     "id": 625,
     "name": "bisharp",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/625.png",
+    "sprite": "/sprites/pokemon/625.png",
     "region": "unova"
   },
   {
     "id": 626,
     "name": "bouffalant",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/626.png",
+    "sprite": "/sprites/pokemon/626.png",
     "region": "unova"
   },
   {
     "id": 627,
     "name": "rufflet",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/627.png",
+    "sprite": "/sprites/pokemon/627.png",
     "region": "unova"
   },
   {
     "id": 628,
     "name": "braviary",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/628.png",
+    "sprite": "/sprites/pokemon/628.png",
     "region": "unova"
   },
   {
     "id": 629,
     "name": "vullaby",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/629.png",
+    "sprite": "/sprites/pokemon/629.png",
     "region": "unova"
   },
   {
     "id": 630,
     "name": "mandibuzz",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/630.png",
+    "sprite": "/sprites/pokemon/630.png",
     "region": "unova"
   },
   {
     "id": 631,
     "name": "heatmor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png",
+    "sprite": "/sprites/pokemon/631.png",
     "region": "unova"
   },
   {
     "id": 632,
     "name": "durant",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/632.png",
+    "sprite": "/sprites/pokemon/632.png",
     "region": "unova"
   },
   {
     "id": 633,
     "name": "deino",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png",
+    "sprite": "/sprites/pokemon/633.png",
     "region": "unova"
   },
   {
     "id": 634,
     "name": "zweilous",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/634.png",
+    "sprite": "/sprites/pokemon/634.png",
     "region": "unova"
   },
   {
     "id": 635,
     "name": "hydreigon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png",
+    "sprite": "/sprites/pokemon/635.png",
     "region": "unova"
   },
   {
     "id": 636,
     "name": "larvesta",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png",
+    "sprite": "/sprites/pokemon/636.png",
     "region": "unova"
   },
   {
     "id": 637,
     "name": "volcarona",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png",
+    "sprite": "/sprites/pokemon/637.png",
     "region": "unova"
   },
   {
     "id": 638,
     "name": "cobalion",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/638.png",
+    "sprite": "/sprites/pokemon/638.png",
     "region": "unova"
   },
   {
     "id": 639,
     "name": "terrakion",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/639.png",
+    "sprite": "/sprites/pokemon/639.png",
     "region": "unova"
   },
   {
     "id": 640,
     "name": "virizion",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/640.png",
+    "sprite": "/sprites/pokemon/640.png",
     "region": "unova"
   },
   {
     "id": 641,
     "name": "tornadus-incarnate",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png",
+    "sprite": "/sprites/pokemon/641.png",
     "region": "unova"
   },
   {
     "id": 642,
     "name": "thundurus-incarnate",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png",
+    "sprite": "/sprites/pokemon/642.png",
     "region": "unova"
   },
   {
     "id": 643,
     "name": "reshiram",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+    "sprite": "/sprites/pokemon/643.png",
     "region": "unova"
   },
   {
     "id": 644,
     "name": "zekrom",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+    "sprite": "/sprites/pokemon/644.png",
     "region": "unova"
   },
   {
     "id": 645,
     "name": "landorus-incarnate",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png",
+    "sprite": "/sprites/pokemon/645.png",
     "region": "unova"
   },
   {
     "id": 646,
     "name": "kyurem",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646.png",
+    "sprite": "/sprites/pokemon/646.png",
     "region": "unova"
   },
   {
     "id": 647,
     "name": "keldeo-ordinary",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png",
+    "sprite": "/sprites/pokemon/647.png",
     "region": "unova"
   },
   {
     "id": 648,
     "name": "meloetta-aria",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png",
+    "sprite": "/sprites/pokemon/648.png",
     "region": "unova"
   },
   {
     "id": 649,
     "name": "genesect",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png",
+    "sprite": "/sprites/pokemon/649.png",
     "region": "unova"
   },
   {
     "id": 650,
     "name": "chespin",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/650.png",
+    "sprite": "/sprites/pokemon/650.png",
     "region": "kalos"
   },
   {
     "id": 651,
     "name": "quilladin",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/651.png",
+    "sprite": "/sprites/pokemon/651.png",
     "region": "kalos"
   },
   {
     "id": 652,
     "name": "chesnaught",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png",
+    "sprite": "/sprites/pokemon/652.png",
     "region": "kalos"
   },
   {
     "id": 653,
     "name": "fennekin",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png",
+    "sprite": "/sprites/pokemon/653.png",
     "region": "kalos"
   },
   {
     "id": 654,
     "name": "braixen",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/654.png",
+    "sprite": "/sprites/pokemon/654.png",
     "region": "kalos"
   },
   {
     "id": 655,
     "name": "delphox",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png",
+    "sprite": "/sprites/pokemon/655.png",
     "region": "kalos"
   },
   {
     "id": 656,
     "name": "froakie",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/656.png",
+    "sprite": "/sprites/pokemon/656.png",
     "region": "kalos"
   },
   {
     "id": 657,
     "name": "frogadier",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/657.png",
+    "sprite": "/sprites/pokemon/657.png",
     "region": "kalos"
   },
   {
     "id": 658,
     "name": "greninja",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png",
+    "sprite": "/sprites/pokemon/658.png",
     "region": "kalos"
   },
   {
     "id": 659,
     "name": "bunnelby",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/659.png",
+    "sprite": "/sprites/pokemon/659.png",
     "region": "kalos"
   },
   {
     "id": 660,
     "name": "diggersby",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png",
+    "sprite": "/sprites/pokemon/660.png",
     "region": "kalos"
   },
   {
     "id": 661,
     "name": "fletchling",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/661.png",
+    "sprite": "/sprites/pokemon/661.png",
     "region": "kalos"
   },
   {
     "id": 662,
     "name": "fletchinder",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/662.png",
+    "sprite": "/sprites/pokemon/662.png",
     "region": "kalos"
   },
   {
     "id": 663,
     "name": "talonflame",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png",
+    "sprite": "/sprites/pokemon/663.png",
     "region": "kalos"
   },
   {
     "id": 664,
     "name": "scatterbug",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/664.png",
+    "sprite": "/sprites/pokemon/664.png",
     "region": "kalos"
   },
   {
     "id": 665,
     "name": "spewpa",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png",
+    "sprite": "/sprites/pokemon/665.png",
     "region": "kalos"
   },
   {
     "id": 666,
     "name": "vivillon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666.png",
+    "sprite": "/sprites/pokemon/666.png",
     "region": "kalos"
   },
   {
     "id": 667,
     "name": "litleo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/667.png",
+    "sprite": "/sprites/pokemon/667.png",
     "region": "kalos"
   },
   {
     "id": 668,
     "name": "pyroar-male",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/668.png",
+    "sprite": "/sprites/pokemon/668.png",
     "region": "kalos"
   },
   {
     "id": 669,
     "name": "flabebe",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669.png",
+    "sprite": "/sprites/pokemon/669.png",
     "region": "kalos"
   },
   {
     "id": 670,
     "name": "floette",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670.png",
+    "sprite": "/sprites/pokemon/670.png",
     "region": "kalos"
   },
   {
     "id": 671,
     "name": "florges",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png",
+    "sprite": "/sprites/pokemon/671.png",
     "region": "kalos"
   },
   {
     "id": 672,
     "name": "skiddo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/672.png",
+    "sprite": "/sprites/pokemon/672.png",
     "region": "kalos"
   },
   {
     "id": 673,
     "name": "gogoat",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/673.png",
+    "sprite": "/sprites/pokemon/673.png",
     "region": "kalos"
   },
   {
     "id": 674,
     "name": "pancham",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/674.png",
+    "sprite": "/sprites/pokemon/674.png",
     "region": "kalos"
   },
   {
     "id": 675,
     "name": "pangoro",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/675.png",
+    "sprite": "/sprites/pokemon/675.png",
     "region": "kalos"
   },
   {
     "id": 676,
     "name": "furfrou",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676.png",
+    "sprite": "/sprites/pokemon/676.png",
     "region": "kalos"
   },
   {
     "id": 677,
     "name": "espurr",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/677.png",
+    "sprite": "/sprites/pokemon/677.png",
     "region": "kalos"
   },
   {
     "id": 678,
     "name": "meowstic-male",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678.png",
+    "sprite": "/sprites/pokemon/678.png",
     "region": "kalos"
   },
   {
     "id": 679,
     "name": "honedge",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/679.png",
+    "sprite": "/sprites/pokemon/679.png",
     "region": "kalos"
   },
   {
     "id": 680,
     "name": "doublade",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/680.png",
+    "sprite": "/sprites/pokemon/680.png",
     "region": "kalos"
   },
   {
     "id": 681,
     "name": "aegislash-shield",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png",
+    "sprite": "/sprites/pokemon/681.png",
     "region": "kalos"
   },
   {
     "id": 682,
     "name": "spritzee",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/682.png",
+    "sprite": "/sprites/pokemon/682.png",
     "region": "kalos"
   },
   {
     "id": 683,
     "name": "aromatisse",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/683.png",
+    "sprite": "/sprites/pokemon/683.png",
     "region": "kalos"
   },
   {
     "id": 684,
     "name": "swirlix",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/684.png",
+    "sprite": "/sprites/pokemon/684.png",
     "region": "kalos"
   },
   {
     "id": 685,
     "name": "slurpuff",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png",
+    "sprite": "/sprites/pokemon/685.png",
     "region": "kalos"
   },
   {
     "id": 686,
     "name": "inkay",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/686.png",
+    "sprite": "/sprites/pokemon/686.png",
     "region": "kalos"
   },
   {
     "id": 687,
     "name": "malamar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png",
+    "sprite": "/sprites/pokemon/687.png",
     "region": "kalos"
   },
   {
     "id": 688,
     "name": "binacle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/688.png",
+    "sprite": "/sprites/pokemon/688.png",
     "region": "kalos"
   },
   {
     "id": 689,
     "name": "barbaracle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/689.png",
+    "sprite": "/sprites/pokemon/689.png",
     "region": "kalos"
   },
   {
     "id": 690,
     "name": "skrelp",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/690.png",
+    "sprite": "/sprites/pokemon/690.png",
     "region": "kalos"
   },
   {
     "id": 691,
     "name": "dragalge",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/691.png",
+    "sprite": "/sprites/pokemon/691.png",
     "region": "kalos"
   },
   {
     "id": 692,
     "name": "clauncher",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/692.png",
+    "sprite": "/sprites/pokemon/692.png",
     "region": "kalos"
   },
   {
     "id": 693,
     "name": "clawitzer",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/693.png",
+    "sprite": "/sprites/pokemon/693.png",
     "region": "kalos"
   },
   {
     "id": 694,
     "name": "helioptile",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/694.png",
+    "sprite": "/sprites/pokemon/694.png",
     "region": "kalos"
   },
   {
     "id": 695,
     "name": "heliolisk",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/695.png",
+    "sprite": "/sprites/pokemon/695.png",
     "region": "kalos"
   },
   {
     "id": 696,
     "name": "tyrunt",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/696.png",
+    "sprite": "/sprites/pokemon/696.png",
     "region": "kalos"
   },
   {
     "id": 697,
     "name": "tyrantrum",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/697.png",
+    "sprite": "/sprites/pokemon/697.png",
     "region": "kalos"
   },
   {
     "id": 698,
     "name": "amaura",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png",
+    "sprite": "/sprites/pokemon/698.png",
     "region": "kalos"
   },
   {
     "id": 699,
     "name": "aurorus",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/699.png",
+    "sprite": "/sprites/pokemon/699.png",
     "region": "kalos"
   },
   {
     "id": 700,
     "name": "sylveon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png",
+    "sprite": "/sprites/pokemon/700.png",
     "region": "kalos"
   },
   {
     "id": 701,
     "name": "hawlucha",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/701.png",
+    "sprite": "/sprites/pokemon/701.png",
     "region": "kalos"
   },
   {
     "id": 702,
     "name": "dedenne",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png",
+    "sprite": "/sprites/pokemon/702.png",
     "region": "kalos"
   },
   {
     "id": 703,
     "name": "carbink",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/703.png",
+    "sprite": "/sprites/pokemon/703.png",
     "region": "kalos"
   },
   {
     "id": 704,
     "name": "goomy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/704.png",
+    "sprite": "/sprites/pokemon/704.png",
     "region": "kalos"
   },
   {
     "id": 705,
     "name": "sliggoo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/705.png",
+    "sprite": "/sprites/pokemon/705.png",
     "region": "kalos"
   },
   {
     "id": 706,
     "name": "goodra",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/706.png",
+    "sprite": "/sprites/pokemon/706.png",
     "region": "kalos"
   },
   {
     "id": 707,
     "name": "klefki",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/707.png",
+    "sprite": "/sprites/pokemon/707.png",
     "region": "kalos"
   },
   {
     "id": 708,
     "name": "phantump",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/708.png",
+    "sprite": "/sprites/pokemon/708.png",
     "region": "kalos"
   },
   {
     "id": 709,
     "name": "trevenant",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/709.png",
+    "sprite": "/sprites/pokemon/709.png",
     "region": "kalos"
   },
   {
     "id": 710,
     "name": "pumpkaboo-average",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/710.png",
+    "sprite": "/sprites/pokemon/710.png",
     "region": "kalos"
   },
   {
     "id": 711,
     "name": "gourgeist-average",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/711.png",
+    "sprite": "/sprites/pokemon/711.png",
     "region": "kalos"
   },
   {
     "id": 712,
     "name": "bergmite",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/712.png",
+    "sprite": "/sprites/pokemon/712.png",
     "region": "kalos"
   },
   {
     "id": 713,
     "name": "avalugg",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/713.png",
+    "sprite": "/sprites/pokemon/713.png",
     "region": "kalos"
   },
   {
     "id": 714,
     "name": "noibat",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/714.png",
+    "sprite": "/sprites/pokemon/714.png",
     "region": "kalos"
   },
   {
     "id": 715,
     "name": "noivern",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/715.png",
+    "sprite": "/sprites/pokemon/715.png",
     "region": "kalos"
   },
   {
     "id": 716,
     "name": "xerneas",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/716.png",
+    "sprite": "/sprites/pokemon/716.png",
     "region": "kalos"
   },
   {
     "id": 717,
     "name": "yveltal",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/717.png",
+    "sprite": "/sprites/pokemon/717.png",
     "region": "kalos"
   },
   {
     "id": 718,
     "name": "zygarde-50",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718.png",
+    "sprite": "/sprites/pokemon/718.png",
     "region": "kalos"
   },
   {
     "id": 719,
     "name": "diancie",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png",
+    "sprite": "/sprites/pokemon/719.png",
     "region": "kalos"
   },
   {
     "id": 720,
     "name": "hoopa",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/720.png",
+    "sprite": "/sprites/pokemon/720.png",
     "region": "kalos"
   },
   {
     "id": 721,
     "name": "volcanion",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png",
+    "sprite": "/sprites/pokemon/721.png",
     "region": "kalos"
   },
   {
     "id": 722,
     "name": "rowlet",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png",
+    "sprite": "/sprites/pokemon/722.png",
     "region": "alola"
   },
   {
     "id": 723,
     "name": "dartrix",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/723.png",
+    "sprite": "/sprites/pokemon/723.png",
     "region": "alola"
   },
   {
     "id": 724,
     "name": "decidueye",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png",
+    "sprite": "/sprites/pokemon/724.png",
     "region": "alola"
   },
   {
     "id": 725,
     "name": "litten",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png",
+    "sprite": "/sprites/pokemon/725.png",
     "region": "alola"
   },
   {
     "id": 726,
     "name": "torracat",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/726.png",
+    "sprite": "/sprites/pokemon/726.png",
     "region": "alola"
   },
   {
     "id": 727,
     "name": "incineroar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png",
+    "sprite": "/sprites/pokemon/727.png",
     "region": "alola"
   },
   {
     "id": 728,
     "name": "popplio",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/728.png",
+    "sprite": "/sprites/pokemon/728.png",
     "region": "alola"
   },
   {
     "id": 729,
     "name": "brionne",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/729.png",
+    "sprite": "/sprites/pokemon/729.png",
     "region": "alola"
   },
   {
     "id": 730,
     "name": "primarina",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png",
+    "sprite": "/sprites/pokemon/730.png",
     "region": "alola"
   },
   {
     "id": 731,
     "name": "pikipek",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/731.png",
+    "sprite": "/sprites/pokemon/731.png",
     "region": "alola"
   },
   {
     "id": 732,
     "name": "trumbeak",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/732.png",
+    "sprite": "/sprites/pokemon/732.png",
     "region": "alola"
   },
   {
     "id": 733,
     "name": "toucannon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png",
+    "sprite": "/sprites/pokemon/733.png",
     "region": "alola"
   },
   {
     "id": 734,
     "name": "yungoos",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/734.png",
+    "sprite": "/sprites/pokemon/734.png",
     "region": "alola"
   },
   {
     "id": 735,
     "name": "gumshoos",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/735.png",
+    "sprite": "/sprites/pokemon/735.png",
     "region": "alola"
   },
   {
     "id": 736,
     "name": "grubbin",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/736.png",
+    "sprite": "/sprites/pokemon/736.png",
     "region": "alola"
   },
   {
     "id": 737,
     "name": "charjabug",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/737.png",
+    "sprite": "/sprites/pokemon/737.png",
     "region": "alola"
   },
   {
     "id": 738,
     "name": "vikavolt",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/738.png",
+    "sprite": "/sprites/pokemon/738.png",
     "region": "alola"
   },
   {
     "id": 739,
     "name": "crabrawler",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/739.png",
+    "sprite": "/sprites/pokemon/739.png",
     "region": "alola"
   },
   {
     "id": 740,
     "name": "crabominable",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png",
+    "sprite": "/sprites/pokemon/740.png",
     "region": "alola"
   },
   {
     "id": 741,
     "name": "oricorio-baile",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741.png",
+    "sprite": "/sprites/pokemon/741.png",
     "region": "alola"
   },
   {
     "id": 742,
     "name": "cutiefly",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/742.png",
+    "sprite": "/sprites/pokemon/742.png",
     "region": "alola"
   },
   {
     "id": 743,
     "name": "ribombee",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png",
+    "sprite": "/sprites/pokemon/743.png",
     "region": "alola"
   },
   {
     "id": 744,
     "name": "rockruff",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/744.png",
+    "sprite": "/sprites/pokemon/744.png",
     "region": "alola"
   },
   {
     "id": 745,
     "name": "lycanroc-midday",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/745.png",
+    "sprite": "/sprites/pokemon/745.png",
     "region": "alola"
   },
   {
     "id": 746,
     "name": "wishiwashi-solo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/746.png",
+    "sprite": "/sprites/pokemon/746.png",
     "region": "alola"
   },
   {
     "id": 747,
     "name": "mareanie",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/747.png",
+    "sprite": "/sprites/pokemon/747.png",
     "region": "alola"
   },
   {
     "id": 748,
     "name": "toxapex",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/748.png",
+    "sprite": "/sprites/pokemon/748.png",
     "region": "alola"
   },
   {
     "id": 749,
     "name": "mudbray",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/749.png",
+    "sprite": "/sprites/pokemon/749.png",
     "region": "alola"
   },
   {
     "id": 750,
     "name": "mudsdale",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png",
+    "sprite": "/sprites/pokemon/750.png",
     "region": "alola"
   },
   {
     "id": 751,
     "name": "dewpider",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/751.png",
+    "sprite": "/sprites/pokemon/751.png",
     "region": "alola"
   },
   {
     "id": 752,
     "name": "araquanid",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/752.png",
+    "sprite": "/sprites/pokemon/752.png",
     "region": "alola"
   },
   {
     "id": 753,
     "name": "fomantis",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/753.png",
+    "sprite": "/sprites/pokemon/753.png",
     "region": "alola"
   },
   {
     "id": 754,
     "name": "lurantis",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/754.png",
+    "sprite": "/sprites/pokemon/754.png",
     "region": "alola"
   },
   {
     "id": 755,
     "name": "morelull",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/755.png",
+    "sprite": "/sprites/pokemon/755.png",
     "region": "alola"
   },
   {
     "id": 756,
     "name": "shiinotic",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/756.png",
+    "sprite": "/sprites/pokemon/756.png",
     "region": "alola"
   },
   {
     "id": 757,
     "name": "salandit",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/757.png",
+    "sprite": "/sprites/pokemon/757.png",
     "region": "alola"
   },
   {
     "id": 758,
     "name": "salazzle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/758.png",
+    "sprite": "/sprites/pokemon/758.png",
     "region": "alola"
   },
   {
     "id": 759,
     "name": "stufful",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/759.png",
+    "sprite": "/sprites/pokemon/759.png",
     "region": "alola"
   },
   {
     "id": 760,
     "name": "bewear",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/760.png",
+    "sprite": "/sprites/pokemon/760.png",
     "region": "alola"
   },
   {
     "id": 761,
     "name": "bounsweet",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/761.png",
+    "sprite": "/sprites/pokemon/761.png",
     "region": "alola"
   },
   {
     "id": 762,
     "name": "steenee",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/762.png",
+    "sprite": "/sprites/pokemon/762.png",
     "region": "alola"
   },
   {
     "id": 763,
     "name": "tsareena",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png",
+    "sprite": "/sprites/pokemon/763.png",
     "region": "alola"
   },
   {
     "id": 764,
     "name": "comfey",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png",
+    "sprite": "/sprites/pokemon/764.png",
     "region": "alola"
   },
   {
     "id": 765,
     "name": "oranguru",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/765.png",
+    "sprite": "/sprites/pokemon/765.png",
     "region": "alola"
   },
   {
     "id": 766,
     "name": "passimian",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/766.png",
+    "sprite": "/sprites/pokemon/766.png",
     "region": "alola"
   },
   {
     "id": 767,
     "name": "wimpod",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/767.png",
+    "sprite": "/sprites/pokemon/767.png",
     "region": "alola"
   },
   {
     "id": 768,
     "name": "golisopod",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/768.png",
+    "sprite": "/sprites/pokemon/768.png",
     "region": "alola"
   },
   {
     "id": 769,
     "name": "sandygast",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/769.png",
+    "sprite": "/sprites/pokemon/769.png",
     "region": "alola"
   },
   {
     "id": 770,
     "name": "palossand",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png",
+    "sprite": "/sprites/pokemon/770.png",
     "region": "alola"
   },
   {
     "id": 771,
     "name": "pyukumuku",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/771.png",
+    "sprite": "/sprites/pokemon/771.png",
     "region": "alola"
   },
   {
     "id": 772,
     "name": "type-null",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/772.png",
+    "sprite": "/sprites/pokemon/772.png",
     "region": "alola"
   },
   {
     "id": 773,
     "name": "silvally",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773.png",
+    "sprite": "/sprites/pokemon/773.png",
     "region": "alola"
   },
   {
     "id": 774,
     "name": "minior-red-meteor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774.png",
+    "sprite": "/sprites/pokemon/774.png",
     "region": "alola"
   },
   {
     "id": 775,
     "name": "komala",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/775.png",
+    "sprite": "/sprites/pokemon/775.png",
     "region": "alola"
   },
   {
     "id": 776,
     "name": "turtonator",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/776.png",
+    "sprite": "/sprites/pokemon/776.png",
     "region": "alola"
   },
   {
     "id": 777,
     "name": "togedemaru",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/777.png",
+    "sprite": "/sprites/pokemon/777.png",
     "region": "alola"
   },
   {
     "id": 778,
     "name": "mimikyu-disguised",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png",
+    "sprite": "/sprites/pokemon/778.png",
     "region": "alola"
   },
   {
     "id": 779,
     "name": "bruxish",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/779.png",
+    "sprite": "/sprites/pokemon/779.png",
     "region": "alola"
   },
   {
     "id": 780,
     "name": "drampa",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/780.png",
+    "sprite": "/sprites/pokemon/780.png",
     "region": "alola"
   },
   {
     "id": 781,
     "name": "dhelmise",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/781.png",
+    "sprite": "/sprites/pokemon/781.png",
     "region": "alola"
   },
   {
     "id": 782,
     "name": "jangmo-o",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/782.png",
+    "sprite": "/sprites/pokemon/782.png",
     "region": "alola"
   },
   {
     "id": 783,
     "name": "hakamo-o",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/783.png",
+    "sprite": "/sprites/pokemon/783.png",
     "region": "alola"
   },
   {
     "id": 784,
     "name": "kommo-o",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png",
+    "sprite": "/sprites/pokemon/784.png",
     "region": "alola"
   },
   {
     "id": 785,
     "name": "tapu-koko",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png",
+    "sprite": "/sprites/pokemon/785.png",
     "region": "alola"
   },
   {
     "id": 786,
     "name": "tapu-lele",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/786.png",
+    "sprite": "/sprites/pokemon/786.png",
     "region": "alola"
   },
   {
     "id": 787,
     "name": "tapu-bulu",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/787.png",
+    "sprite": "/sprites/pokemon/787.png",
     "region": "alola"
   },
   {
     "id": 788,
     "name": "tapu-fini",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/788.png",
+    "sprite": "/sprites/pokemon/788.png",
     "region": "alola"
   },
   {
     "id": 789,
     "name": "cosmog",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/789.png",
+    "sprite": "/sprites/pokemon/789.png",
     "region": "alola"
   },
   {
     "id": 790,
     "name": "cosmoem",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/790.png",
+    "sprite": "/sprites/pokemon/790.png",
     "region": "alola"
   },
   {
     "id": 791,
     "name": "solgaleo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/791.png",
+    "sprite": "/sprites/pokemon/791.png",
     "region": "alola"
   },
   {
     "id": 792,
     "name": "lunala",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/792.png",
+    "sprite": "/sprites/pokemon/792.png",
     "region": "alola"
   },
   {
     "id": 793,
     "name": "nihilego",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/793.png",
+    "sprite": "/sprites/pokemon/793.png",
     "region": "alola"
   },
   {
     "id": 794,
     "name": "buzzwole",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/794.png",
+    "sprite": "/sprites/pokemon/794.png",
     "region": "alola"
   },
   {
     "id": 795,
     "name": "pheromosa",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/795.png",
+    "sprite": "/sprites/pokemon/795.png",
     "region": "alola"
   },
   {
     "id": 796,
     "name": "xurkitree",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/796.png",
+    "sprite": "/sprites/pokemon/796.png",
     "region": "alola"
   },
   {
     "id": 797,
     "name": "celesteela",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/797.png",
+    "sprite": "/sprites/pokemon/797.png",
     "region": "alola"
   },
   {
     "id": 798,
     "name": "kartana",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/798.png",
+    "sprite": "/sprites/pokemon/798.png",
     "region": "alola"
   },
   {
     "id": 799,
     "name": "guzzlord",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/799.png",
+    "sprite": "/sprites/pokemon/799.png",
     "region": "alola"
   },
   {
     "id": 800,
     "name": "necrozma",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800.png",
+    "sprite": "/sprites/pokemon/800.png",
     "region": "alola"
   },
   {
     "id": 801,
     "name": "magearna",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801.png",
+    "sprite": "/sprites/pokemon/801.png",
     "region": "alola"
   },
   {
     "id": 802,
     "name": "marshadow",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/802.png",
+    "sprite": "/sprites/pokemon/802.png",
     "region": "alola"
   },
   {
     "id": 803,
     "name": "poipole",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/803.png",
+    "sprite": "/sprites/pokemon/803.png",
     "region": "alola"
   },
   {
     "id": 804,
     "name": "naganadel",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/804.png",
+    "sprite": "/sprites/pokemon/804.png",
     "region": "alola"
   },
   {
     "id": 805,
     "name": "stakataka",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/805.png",
+    "sprite": "/sprites/pokemon/805.png",
     "region": "alola"
   },
   {
     "id": 806,
     "name": "blacephalon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/806.png",
+    "sprite": "/sprites/pokemon/806.png",
     "region": "alola"
   },
   {
     "id": 807,
     "name": "zeraora",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/807.png",
+    "sprite": "/sprites/pokemon/807.png",
     "region": "alola"
   },
   {
     "id": 808,
     "name": "meltan",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/808.png",
+    "sprite": "/sprites/pokemon/808.png",
     "region": "alola"
   },
   {
     "id": 809,
     "name": "melmetal",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809.png",
+    "sprite": "/sprites/pokemon/809.png",
     "region": "alola"
   },
   {
     "id": 810,
     "name": "grookey",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/810.png",
+    "sprite": "/sprites/pokemon/810.png",
     "region": "galar"
   },
   {
     "id": 811,
     "name": "thwackey",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/811.png",
+    "sprite": "/sprites/pokemon/811.png",
     "region": "galar"
   },
   {
     "id": 812,
     "name": "rillaboom",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/812.png",
+    "sprite": "/sprites/pokemon/812.png",
     "region": "galar"
   },
   {
     "id": 813,
     "name": "scorbunny",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/813.png",
+    "sprite": "/sprites/pokemon/813.png",
     "region": "galar"
   },
   {
     "id": 814,
     "name": "raboot",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/814.png",
+    "sprite": "/sprites/pokemon/814.png",
     "region": "galar"
   },
   {
     "id": 815,
     "name": "cinderace",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/815.png",
+    "sprite": "/sprites/pokemon/815.png",
     "region": "galar"
   },
   {
     "id": 816,
     "name": "sobble",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/816.png",
+    "sprite": "/sprites/pokemon/816.png",
     "region": "galar"
   },
   {
     "id": 817,
     "name": "drizzile",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/817.png",
+    "sprite": "/sprites/pokemon/817.png",
     "region": "galar"
   },
   {
     "id": 818,
     "name": "inteleon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/818.png",
+    "sprite": "/sprites/pokemon/818.png",
     "region": "galar"
   },
   {
     "id": 819,
     "name": "skwovet",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/819.png",
+    "sprite": "/sprites/pokemon/819.png",
     "region": "galar"
   },
   {
     "id": 820,
     "name": "greedent",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/820.png",
+    "sprite": "/sprites/pokemon/820.png",
     "region": "galar"
   },
   {
     "id": 821,
     "name": "rookidee",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/821.png",
+    "sprite": "/sprites/pokemon/821.png",
     "region": "galar"
   },
   {
     "id": 822,
     "name": "corvisquire",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/822.png",
+    "sprite": "/sprites/pokemon/822.png",
     "region": "galar"
   },
   {
     "id": 823,
     "name": "corviknight",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/823.png",
+    "sprite": "/sprites/pokemon/823.png",
     "region": "galar"
   },
   {
     "id": 824,
     "name": "blipbug",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/824.png",
+    "sprite": "/sprites/pokemon/824.png",
     "region": "galar"
   },
   {
     "id": 825,
     "name": "dottler",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/825.png",
+    "sprite": "/sprites/pokemon/825.png",
     "region": "galar"
   },
   {
     "id": 826,
     "name": "orbeetle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/826.png",
+    "sprite": "/sprites/pokemon/826.png",
     "region": "galar"
   },
   {
     "id": 827,
     "name": "nickit",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/827.png",
+    "sprite": "/sprites/pokemon/827.png",
     "region": "galar"
   },
   {
     "id": 828,
     "name": "thievul",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/828.png",
+    "sprite": "/sprites/pokemon/828.png",
     "region": "galar"
   },
   {
     "id": 829,
     "name": "gossifleur",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/829.png",
+    "sprite": "/sprites/pokemon/829.png",
     "region": "galar"
   },
   {
     "id": 830,
     "name": "eldegoss",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/830.png",
+    "sprite": "/sprites/pokemon/830.png",
     "region": "galar"
   },
   {
     "id": 831,
     "name": "wooloo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/831.png",
+    "sprite": "/sprites/pokemon/831.png",
     "region": "galar"
   },
   {
     "id": 832,
     "name": "dubwool",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/832.png",
+    "sprite": "/sprites/pokemon/832.png",
     "region": "galar"
   },
   {
     "id": 833,
     "name": "chewtle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/833.png",
+    "sprite": "/sprites/pokemon/833.png",
     "region": "galar"
   },
   {
     "id": 834,
     "name": "drednaw",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/834.png",
+    "sprite": "/sprites/pokemon/834.png",
     "region": "galar"
   },
   {
     "id": 835,
     "name": "yamper",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/835.png",
+    "sprite": "/sprites/pokemon/835.png",
     "region": "galar"
   },
   {
     "id": 836,
     "name": "boltund",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/836.png",
+    "sprite": "/sprites/pokemon/836.png",
     "region": "galar"
   },
   {
     "id": 837,
     "name": "rolycoly",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/837.png",
+    "sprite": "/sprites/pokemon/837.png",
     "region": "galar"
   },
   {
     "id": 838,
     "name": "carkol",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/838.png",
+    "sprite": "/sprites/pokemon/838.png",
     "region": "galar"
   },
   {
     "id": 839,
     "name": "coalossal",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/839.png",
+    "sprite": "/sprites/pokemon/839.png",
     "region": "galar"
   },
   {
     "id": 840,
     "name": "applin",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/840.png",
+    "sprite": "/sprites/pokemon/840.png",
     "region": "galar"
   },
   {
     "id": 841,
     "name": "flapple",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/841.png",
+    "sprite": "/sprites/pokemon/841.png",
     "region": "galar"
   },
   {
     "id": 842,
     "name": "appletun",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/842.png",
+    "sprite": "/sprites/pokemon/842.png",
     "region": "galar"
   },
   {
     "id": 843,
     "name": "silicobra",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/843.png",
+    "sprite": "/sprites/pokemon/843.png",
     "region": "galar"
   },
   {
     "id": 844,
     "name": "sandaconda",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/844.png",
+    "sprite": "/sprites/pokemon/844.png",
     "region": "galar"
   },
   {
     "id": 845,
     "name": "cramorant",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/845.png",
+    "sprite": "/sprites/pokemon/845.png",
     "region": "galar"
   },
   {
     "id": 846,
     "name": "arrokuda",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/846.png",
+    "sprite": "/sprites/pokemon/846.png",
     "region": "galar"
   },
   {
     "id": 847,
     "name": "barraskewda",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/847.png",
+    "sprite": "/sprites/pokemon/847.png",
     "region": "galar"
   },
   {
     "id": 848,
     "name": "toxel",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/848.png",
+    "sprite": "/sprites/pokemon/848.png",
     "region": "galar"
   },
   {
     "id": 849,
     "name": "toxtricity-amped",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849.png",
+    "sprite": "/sprites/pokemon/849.png",
     "region": "galar"
   },
   {
     "id": 850,
     "name": "sizzlipede",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/850.png",
+    "sprite": "/sprites/pokemon/850.png",
     "region": "galar"
   },
   {
     "id": 851,
     "name": "centiskorch",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/851.png",
+    "sprite": "/sprites/pokemon/851.png",
     "region": "galar"
   },
   {
     "id": 852,
     "name": "clobbopus",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/852.png",
+    "sprite": "/sprites/pokemon/852.png",
     "region": "galar"
   },
   {
     "id": 853,
     "name": "grapploct",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/853.png",
+    "sprite": "/sprites/pokemon/853.png",
     "region": "galar"
   },
   {
     "id": 854,
     "name": "sinistea",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/854.png",
+    "sprite": "/sprites/pokemon/854.png",
     "region": "galar"
   },
   {
     "id": 855,
     "name": "polteageist",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/855.png",
+    "sprite": "/sprites/pokemon/855.png",
     "region": "galar"
   },
   {
     "id": 856,
     "name": "hatenna",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/856.png",
+    "sprite": "/sprites/pokemon/856.png",
     "region": "galar"
   },
   {
     "id": 857,
     "name": "hattrem",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/857.png",
+    "sprite": "/sprites/pokemon/857.png",
     "region": "galar"
   },
   {
     "id": 858,
     "name": "hatterene",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/858.png",
+    "sprite": "/sprites/pokemon/858.png",
     "region": "galar"
   },
   {
     "id": 859,
     "name": "impidimp",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/859.png",
+    "sprite": "/sprites/pokemon/859.png",
     "region": "galar"
   },
   {
     "id": 860,
     "name": "morgrem",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/860.png",
+    "sprite": "/sprites/pokemon/860.png",
     "region": "galar"
   },
   {
     "id": 861,
     "name": "grimmsnarl",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/861.png",
+    "sprite": "/sprites/pokemon/861.png",
     "region": "galar"
   },
   {
     "id": 862,
     "name": "obstagoon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/862.png",
+    "sprite": "/sprites/pokemon/862.png",
     "region": "galar"
   },
   {
     "id": 863,
     "name": "perrserker",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/863.png",
+    "sprite": "/sprites/pokemon/863.png",
     "region": "galar"
   },
   {
     "id": 864,
     "name": "cursola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/864.png",
+    "sprite": "/sprites/pokemon/864.png",
     "region": "galar"
   },
   {
     "id": 865,
     "name": "sirfetchd",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/865.png",
+    "sprite": "/sprites/pokemon/865.png",
     "region": "galar"
   },
   {
     "id": 866,
     "name": "mr-rime",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/866.png",
+    "sprite": "/sprites/pokemon/866.png",
     "region": "galar"
   },
   {
     "id": 867,
     "name": "runerigus",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/867.png",
+    "sprite": "/sprites/pokemon/867.png",
     "region": "galar"
   },
   {
     "id": 868,
     "name": "milcery",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/868.png",
+    "sprite": "/sprites/pokemon/868.png",
     "region": "galar"
   },
   {
     "id": 869,
     "name": "alcremie",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869.png",
+    "sprite": "/sprites/pokemon/869.png",
     "region": "galar"
   },
   {
     "id": 870,
     "name": "falinks",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/870.png",
+    "sprite": "/sprites/pokemon/870.png",
     "region": "galar"
   },
   {
     "id": 871,
     "name": "pincurchin",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/871.png",
+    "sprite": "/sprites/pokemon/871.png",
     "region": "galar"
   },
   {
     "id": 872,
     "name": "snom",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/872.png",
+    "sprite": "/sprites/pokemon/872.png",
     "region": "galar"
   },
   {
     "id": 873,
     "name": "frosmoth",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/873.png",
+    "sprite": "/sprites/pokemon/873.png",
     "region": "galar"
   },
   {
     "id": 874,
     "name": "stonjourner",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/874.png",
+    "sprite": "/sprites/pokemon/874.png",
     "region": "galar"
   },
   {
     "id": 875,
     "name": "eiscue-ice",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/875.png",
+    "sprite": "/sprites/pokemon/875.png",
     "region": "galar"
   },
   {
     "id": 876,
     "name": "indeedee-male",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/876.png",
+    "sprite": "/sprites/pokemon/876.png",
     "region": "galar"
   },
   {
     "id": 877,
     "name": "morpeko-full-belly",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/877.png",
+    "sprite": "/sprites/pokemon/877.png",
     "region": "galar"
   },
   {
     "id": 878,
     "name": "cufant",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/878.png",
+    "sprite": "/sprites/pokemon/878.png",
     "region": "galar"
   },
   {
     "id": 879,
     "name": "copperajah",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/879.png",
+    "sprite": "/sprites/pokemon/879.png",
     "region": "galar"
   },
   {
     "id": 880,
     "name": "dracozolt",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/880.png",
+    "sprite": "/sprites/pokemon/880.png",
     "region": "galar"
   },
   {
     "id": 881,
     "name": "arctozolt",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/881.png",
+    "sprite": "/sprites/pokemon/881.png",
     "region": "galar"
   },
   {
     "id": 882,
     "name": "dracovish",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/882.png",
+    "sprite": "/sprites/pokemon/882.png",
     "region": "galar"
   },
   {
     "id": 883,
     "name": "arctovish",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/883.png",
+    "sprite": "/sprites/pokemon/883.png",
     "region": "galar"
   },
   {
     "id": 884,
     "name": "duraludon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/884.png",
+    "sprite": "/sprites/pokemon/884.png",
     "region": "galar"
   },
   {
     "id": 885,
     "name": "dreepy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/885.png",
+    "sprite": "/sprites/pokemon/885.png",
     "region": "galar"
   },
   {
     "id": 886,
     "name": "drakloak",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/886.png",
+    "sprite": "/sprites/pokemon/886.png",
     "region": "galar"
   },
   {
     "id": 887,
     "name": "dragapult",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png",
+    "sprite": "/sprites/pokemon/887.png",
     "region": "galar"
   },
   {
     "id": 888,
     "name": "zacian",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/888.png",
+    "sprite": "/sprites/pokemon/888.png",
     "region": "galar"
   },
   {
     "id": 889,
     "name": "zamazenta",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/889.png",
+    "sprite": "/sprites/pokemon/889.png",
     "region": "galar"
   },
   {
     "id": 890,
     "name": "eternatus",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/890.png",
+    "sprite": "/sprites/pokemon/890.png",
     "region": "galar"
   },
   {
     "id": 891,
     "name": "kubfu",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/891.png",
+    "sprite": "/sprites/pokemon/891.png",
     "region": "galar"
   },
   {
     "id": 892,
     "name": "urshifu-single-strike",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892.png",
+    "sprite": "/sprites/pokemon/892.png",
     "region": "galar"
   },
   {
     "id": 893,
     "name": "zarude",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/893.png",
+    "sprite": "/sprites/pokemon/893.png",
     "region": "galar"
   },
   {
     "id": 894,
     "name": "regieleki",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/894.png",
+    "sprite": "/sprites/pokemon/894.png",
     "region": "galar"
   },
   {
     "id": 895,
     "name": "regidrago",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/895.png",
+    "sprite": "/sprites/pokemon/895.png",
     "region": "galar"
   },
   {
     "id": 896,
     "name": "glastrier",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/896.png",
+    "sprite": "/sprites/pokemon/896.png",
     "region": "galar"
   },
   {
     "id": 897,
     "name": "spectrier",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/897.png",
+    "sprite": "/sprites/pokemon/897.png",
     "region": "galar"
   },
   {
     "id": 898,
     "name": "calyrex",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/898.png",
+    "sprite": "/sprites/pokemon/898.png",
     "region": "galar"
   },
   {
     "id": 899,
     "name": "wyrdeer",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/899.png",
+    "sprite": "/sprites/pokemon/899.png",
     "region": "galar"
   },
   {
     "id": 900,
     "name": "kleavor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/900.png",
+    "sprite": "/sprites/pokemon/900.png",
     "region": "galar"
   },
   {
     "id": 901,
     "name": "ursaluna",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/901.png",
+    "sprite": "/sprites/pokemon/901.png",
     "region": "galar"
   },
   {
     "id": 902,
     "name": "basculegion-male",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/902.png",
+    "sprite": "/sprites/pokemon/902.png",
     "region": "galar"
   },
   {
     "id": 903,
     "name": "sneasler",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/903.png",
+    "sprite": "/sprites/pokemon/903.png",
     "region": "galar"
   },
   {
     "id": 904,
     "name": "overqwil",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/904.png",
+    "sprite": "/sprites/pokemon/904.png",
     "region": "galar"
   },
   {
     "id": 905,
     "name": "enamorus-incarnate",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/905.png",
+    "sprite": "/sprites/pokemon/905.png",
     "region": "galar"
   },
   {
     "id": 906,
     "name": "sprigatito",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/906.png",
+    "sprite": "/sprites/pokemon/906.png",
     "region": "paldea"
   },
   {
     "id": 907,
     "name": "floragato",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/907.png",
+    "sprite": "/sprites/pokemon/907.png",
     "region": "paldea"
   },
   {
     "id": 908,
     "name": "meowscarada",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/908.png",
+    "sprite": "/sprites/pokemon/908.png",
     "region": "paldea"
   },
   {
     "id": 909,
     "name": "fuecoco",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/909.png",
+    "sprite": "/sprites/pokemon/909.png",
     "region": "paldea"
   },
   {
     "id": 910,
     "name": "crocalor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/910.png",
+    "sprite": "/sprites/pokemon/910.png",
     "region": "paldea"
   },
   {
     "id": 911,
     "name": "skeledirge",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/911.png",
+    "sprite": "/sprites/pokemon/911.png",
     "region": "paldea"
   },
   {
     "id": 912,
     "name": "quaxly",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/912.png",
+    "sprite": "/sprites/pokemon/912.png",
     "region": "paldea"
   },
   {
     "id": 913,
     "name": "quaxwell",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/913.png",
+    "sprite": "/sprites/pokemon/913.png",
     "region": "paldea"
   },
   {
     "id": 914,
     "name": "quaquaval",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/914.png",
+    "sprite": "/sprites/pokemon/914.png",
     "region": "paldea"
   },
   {
     "id": 915,
     "name": "lechonk",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/915.png",
+    "sprite": "/sprites/pokemon/915.png",
     "region": "paldea"
   },
   {
     "id": 916,
     "name": "oinkologne-male",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/916.png",
+    "sprite": "/sprites/pokemon/916.png",
     "region": "paldea"
   },
   {
     "id": 917,
     "name": "tarountula",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/917.png",
+    "sprite": "/sprites/pokemon/917.png",
     "region": "paldea"
   },
   {
     "id": 918,
     "name": "spidops",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/918.png",
+    "sprite": "/sprites/pokemon/918.png",
     "region": "paldea"
   },
   {
     "id": 919,
     "name": "nymble",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/919.png",
+    "sprite": "/sprites/pokemon/919.png",
     "region": "paldea"
   },
   {
     "id": 920,
     "name": "lokix",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/920.png",
+    "sprite": "/sprites/pokemon/920.png",
     "region": "paldea"
   },
   {
     "id": 921,
     "name": "pawmi",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/921.png",
+    "sprite": "/sprites/pokemon/921.png",
     "region": "paldea"
   },
   {
     "id": 922,
     "name": "pawmo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/922.png",
+    "sprite": "/sprites/pokemon/922.png",
     "region": "paldea"
   },
   {
     "id": 923,
     "name": "pawmot",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/923.png",
+    "sprite": "/sprites/pokemon/923.png",
     "region": "paldea"
   },
   {
     "id": 924,
     "name": "tandemaus",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/924.png",
+    "sprite": "/sprites/pokemon/924.png",
     "region": "paldea"
   },
   {
     "id": 925,
     "name": "maushold-family-of-four",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/925.png",
+    "sprite": "/sprites/pokemon/925.png",
     "region": "paldea"
   },
   {
     "id": 926,
     "name": "fidough",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/926.png",
+    "sprite": "/sprites/pokemon/926.png",
     "region": "paldea"
   },
   {
     "id": 927,
     "name": "dachsbun",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/927.png",
+    "sprite": "/sprites/pokemon/927.png",
     "region": "paldea"
   },
   {
     "id": 928,
     "name": "smoliv",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/928.png",
+    "sprite": "/sprites/pokemon/928.png",
     "region": "paldea"
   },
   {
     "id": 929,
     "name": "dolliv",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/929.png",
+    "sprite": "/sprites/pokemon/929.png",
     "region": "paldea"
   },
   {
     "id": 930,
     "name": "arboliva",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/930.png",
+    "sprite": "/sprites/pokemon/930.png",
     "region": "paldea"
   },
   {
     "id": 931,
     "name": "squawkabilly-green-plumage",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/931.png",
+    "sprite": "/sprites/pokemon/931.png",
     "region": "paldea"
   },
   {
     "id": 932,
     "name": "nacli",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/932.png",
+    "sprite": "/sprites/pokemon/932.png",
     "region": "paldea"
   },
   {
     "id": 933,
     "name": "naclstack",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/933.png",
+    "sprite": "/sprites/pokemon/933.png",
     "region": "paldea"
   },
   {
     "id": 934,
     "name": "garganacl",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/934.png",
+    "sprite": "/sprites/pokemon/934.png",
     "region": "paldea"
   },
   {
     "id": 935,
     "name": "charcadet",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/935.png",
+    "sprite": "/sprites/pokemon/935.png",
     "region": "paldea"
   },
   {
     "id": 936,
     "name": "armarouge",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/936.png",
+    "sprite": "/sprites/pokemon/936.png",
     "region": "paldea"
   },
   {
     "id": 937,
     "name": "ceruledge",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/937.png",
+    "sprite": "/sprites/pokemon/937.png",
     "region": "paldea"
   },
   {
     "id": 938,
     "name": "tadbulb",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/938.png",
+    "sprite": "/sprites/pokemon/938.png",
     "region": "paldea"
   },
   {
     "id": 939,
     "name": "bellibolt",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/939.png",
+    "sprite": "/sprites/pokemon/939.png",
     "region": "paldea"
   },
   {
     "id": 940,
     "name": "wattrel",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/940.png",
+    "sprite": "/sprites/pokemon/940.png",
     "region": "paldea"
   },
   {
     "id": 941,
     "name": "kilowattrel",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/941.png",
+    "sprite": "/sprites/pokemon/941.png",
     "region": "paldea"
   },
   {
     "id": 942,
     "name": "maschiff",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/942.png",
+    "sprite": "/sprites/pokemon/942.png",
     "region": "paldea"
   },
   {
     "id": 943,
     "name": "mabosstiff",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/943.png",
+    "sprite": "/sprites/pokemon/943.png",
     "region": "paldea"
   },
   {
     "id": 944,
     "name": "shroodle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/944.png",
+    "sprite": "/sprites/pokemon/944.png",
     "region": "paldea"
   },
   {
     "id": 945,
     "name": "grafaiai",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/945.png",
+    "sprite": "/sprites/pokemon/945.png",
     "region": "paldea"
   },
   {
     "id": 946,
     "name": "bramblin",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/946.png",
+    "sprite": "/sprites/pokemon/946.png",
     "region": "paldea"
   },
   {
     "id": 947,
     "name": "brambleghast",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/947.png",
+    "sprite": "/sprites/pokemon/947.png",
     "region": "paldea"
   },
   {
     "id": 948,
     "name": "toedscool",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/948.png",
+    "sprite": "/sprites/pokemon/948.png",
     "region": "paldea"
   },
   {
     "id": 949,
     "name": "toedscruel",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/949.png",
+    "sprite": "/sprites/pokemon/949.png",
     "region": "paldea"
   },
   {
     "id": 950,
     "name": "klawf",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/950.png",
+    "sprite": "/sprites/pokemon/950.png",
     "region": "paldea"
   },
   {
     "id": 951,
     "name": "capsakid",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/951.png",
+    "sprite": "/sprites/pokemon/951.png",
     "region": "paldea"
   },
   {
     "id": 952,
     "name": "scovillain",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/952.png",
+    "sprite": "/sprites/pokemon/952.png",
     "region": "paldea"
   },
   {
     "id": 953,
     "name": "rellor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/953.png",
+    "sprite": "/sprites/pokemon/953.png",
     "region": "paldea"
   },
   {
     "id": 954,
     "name": "rabsca",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/954.png",
+    "sprite": "/sprites/pokemon/954.png",
     "region": "paldea"
   },
   {
     "id": 955,
     "name": "flittle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/955.png",
+    "sprite": "/sprites/pokemon/955.png",
     "region": "paldea"
   },
   {
     "id": 956,
     "name": "espathra",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/956.png",
+    "sprite": "/sprites/pokemon/956.png",
     "region": "paldea"
   },
   {
     "id": 957,
     "name": "tinkatink",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/957.png",
+    "sprite": "/sprites/pokemon/957.png",
     "region": "paldea"
   },
   {
     "id": 958,
     "name": "tinkatuff",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/958.png",
+    "sprite": "/sprites/pokemon/958.png",
     "region": "paldea"
   },
   {
     "id": 959,
     "name": "tinkaton",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/959.png",
+    "sprite": "/sprites/pokemon/959.png",
     "region": "paldea"
   },
   {
     "id": 960,
     "name": "wiglett",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/960.png",
+    "sprite": "/sprites/pokemon/960.png",
     "region": "paldea"
   },
   {
     "id": 961,
     "name": "wugtrio",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/961.png",
+    "sprite": "/sprites/pokemon/961.png",
     "region": "paldea"
   },
   {
     "id": 962,
     "name": "bombirdier",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/962.png",
+    "sprite": "/sprites/pokemon/962.png",
     "region": "paldea"
   },
   {
     "id": 963,
     "name": "finizen",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/963.png",
+    "sprite": "/sprites/pokemon/963.png",
     "region": "paldea"
   },
   {
     "id": 964,
     "name": "palafin-zero",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/964.png",
+    "sprite": "/sprites/pokemon/964.png",
     "region": "paldea"
   },
   {
     "id": 965,
     "name": "varoom",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/965.png",
+    "sprite": "/sprites/pokemon/965.png",
     "region": "paldea"
   },
   {
     "id": 966,
     "name": "revavroom",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/966.png",
+    "sprite": "/sprites/pokemon/966.png",
     "region": "paldea"
   },
   {
     "id": 967,
     "name": "cyclizar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/967.png",
+    "sprite": "/sprites/pokemon/967.png",
     "region": "paldea"
   },
   {
     "id": 968,
     "name": "orthworm",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/968.png",
+    "sprite": "/sprites/pokemon/968.png",
     "region": "paldea"
   },
   {
     "id": 969,
     "name": "glimmet",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/969.png",
+    "sprite": "/sprites/pokemon/969.png",
     "region": "paldea"
   },
   {
     "id": 970,
     "name": "glimmora",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/970.png",
+    "sprite": "/sprites/pokemon/970.png",
     "region": "paldea"
   },
   {
     "id": 971,
     "name": "greavard",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/971.png",
+    "sprite": "/sprites/pokemon/971.png",
     "region": "paldea"
   },
   {
     "id": 972,
     "name": "houndstone",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/972.png",
+    "sprite": "/sprites/pokemon/972.png",
     "region": "paldea"
   },
   {
     "id": 973,
     "name": "flamigo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/973.png",
+    "sprite": "/sprites/pokemon/973.png",
     "region": "paldea"
   },
   {
     "id": 974,
     "name": "cetoddle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/974.png",
+    "sprite": "/sprites/pokemon/974.png",
     "region": "paldea"
   },
   {
     "id": 975,
     "name": "cetitan",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/975.png",
+    "sprite": "/sprites/pokemon/975.png",
     "region": "paldea"
   },
   {
     "id": 976,
     "name": "veluza",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/976.png",
+    "sprite": "/sprites/pokemon/976.png",
     "region": "paldea"
   },
   {
     "id": 977,
     "name": "dondozo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/977.png",
+    "sprite": "/sprites/pokemon/977.png",
     "region": "paldea"
   },
   {
     "id": 978,
     "name": "tatsugiri-curly",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/978.png",
+    "sprite": "/sprites/pokemon/978.png",
     "region": "paldea"
   },
   {
     "id": 979,
     "name": "annihilape",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/979.png",
+    "sprite": "/sprites/pokemon/979.png",
     "region": "paldea"
   },
   {
     "id": 980,
     "name": "clodsire",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/980.png",
+    "sprite": "/sprites/pokemon/980.png",
     "region": "paldea"
   },
   {
     "id": 981,
     "name": "farigiraf",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/981.png",
+    "sprite": "/sprites/pokemon/981.png",
     "region": "paldea"
   },
   {
     "id": 982,
     "name": "dudunsparce-two-segment",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/982.png",
+    "sprite": "/sprites/pokemon/982.png",
     "region": "paldea"
   },
   {
     "id": 983,
     "name": "kingambit",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/983.png",
+    "sprite": "/sprites/pokemon/983.png",
     "region": "paldea"
   },
   {
     "id": 984,
     "name": "great-tusk",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/984.png",
+    "sprite": "/sprites/pokemon/984.png",
     "region": "paldea"
   },
   {
     "id": 985,
     "name": "scream-tail",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/985.png",
+    "sprite": "/sprites/pokemon/985.png",
     "region": "paldea"
   },
   {
     "id": 986,
     "name": "brute-bonnet",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/986.png",
+    "sprite": "/sprites/pokemon/986.png",
     "region": "paldea"
   },
   {
     "id": 987,
     "name": "flutter-mane",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/987.png",
+    "sprite": "/sprites/pokemon/987.png",
     "region": "paldea"
   },
   {
     "id": 988,
     "name": "slither-wing",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/988.png",
+    "sprite": "/sprites/pokemon/988.png",
     "region": "paldea"
   },
   {
     "id": 989,
     "name": "sandy-shocks",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/989.png",
+    "sprite": "/sprites/pokemon/989.png",
     "region": "paldea"
   },
   {
     "id": 990,
     "name": "iron-treads",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/990.png",
+    "sprite": "/sprites/pokemon/990.png",
     "region": "paldea"
   },
   {
     "id": 991,
     "name": "iron-bundle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/991.png",
+    "sprite": "/sprites/pokemon/991.png",
     "region": "paldea"
   },
   {
     "id": 992,
     "name": "iron-hands",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/992.png",
+    "sprite": "/sprites/pokemon/992.png",
     "region": "paldea"
   },
   {
     "id": 993,
     "name": "iron-jugulis",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/993.png",
+    "sprite": "/sprites/pokemon/993.png",
     "region": "paldea"
   },
   {
     "id": 994,
     "name": "iron-moth",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/994.png",
+    "sprite": "/sprites/pokemon/994.png",
     "region": "paldea"
   },
   {
     "id": 995,
     "name": "iron-thorns",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/995.png",
+    "sprite": "/sprites/pokemon/995.png",
     "region": "paldea"
   },
   {
     "id": 996,
     "name": "frigibax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/996.png",
+    "sprite": "/sprites/pokemon/996.png",
     "region": "paldea"
   },
   {
     "id": 997,
     "name": "arctibax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/997.png",
+    "sprite": "/sprites/pokemon/997.png",
     "region": "paldea"
   },
   {
     "id": 998,
     "name": "baxcalibur",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/998.png",
+    "sprite": "/sprites/pokemon/998.png",
     "region": "paldea"
   },
   {
     "id": 999,
     "name": "gimmighoul",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/999.png",
+    "sprite": "/sprites/pokemon/999.png",
     "region": "paldea"
   },
   {
     "id": 1000,
     "name": "gholdengo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1000.png",
+    "sprite": "/sprites/pokemon/1000.png",
     "region": "paldea"
   },
   {
     "id": 1001,
     "name": "wo-chien",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1001.png",
+    "sprite": "/sprites/pokemon/1001.png",
     "region": "paldea"
   },
   {
     "id": 1002,
     "name": "chien-pao",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1002.png",
+    "sprite": "/sprites/pokemon/1002.png",
     "region": "paldea"
   },
   {
     "id": 1003,
     "name": "ting-lu",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1003.png",
+    "sprite": "/sprites/pokemon/1003.png",
     "region": "paldea"
   },
   {
     "id": 1004,
     "name": "chi-yu",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1004.png",
+    "sprite": "/sprites/pokemon/1004.png",
     "region": "paldea"
   },
   {
     "id": 1005,
     "name": "roaring-moon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1005.png",
+    "sprite": "/sprites/pokemon/1005.png",
     "region": "paldea"
   },
   {
     "id": 1006,
     "name": "iron-valiant",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1006.png",
+    "sprite": "/sprites/pokemon/1006.png",
     "region": "paldea"
   },
   {
     "id": 1007,
     "name": "koraidon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1007.png",
+    "sprite": "/sprites/pokemon/1007.png",
     "region": "paldea"
   },
   {
     "id": 1008,
     "name": "miraidon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1008.png",
+    "sprite": "/sprites/pokemon/1008.png",
     "region": "paldea"
   },
   {
     "id": 1009,
     "name": "walking-wake",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1009.png",
+    "sprite": "/sprites/pokemon/1009.png",
     "region": "paldea"
   },
   {
     "id": 1010,
     "name": "iron-leaves",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1010.png",
+    "sprite": "/sprites/pokemon/1010.png",
     "region": "paldea"
   },
   {
     "id": 1011,
     "name": "dipplin",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1011.png",
+    "sprite": "/sprites/pokemon/1011.png",
     "region": "paldea"
   },
   {
     "id": 1012,
     "name": "poltchageist",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1012.png",
+    "sprite": "/sprites/pokemon/1012.png",
     "region": "paldea"
   },
   {
     "id": 1013,
     "name": "sinistcha",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1013.png",
+    "sprite": "/sprites/pokemon/1013.png",
     "region": "paldea"
   },
   {
     "id": 1014,
     "name": "okidogi",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1014.png",
+    "sprite": "/sprites/pokemon/1014.png",
     "region": "paldea"
   },
   {
     "id": 1015,
     "name": "munkidori",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1015.png",
+    "sprite": "/sprites/pokemon/1015.png",
     "region": "paldea"
   },
   {
     "id": 1016,
     "name": "fezandipiti",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1016.png",
+    "sprite": "/sprites/pokemon/1016.png",
     "region": "paldea"
   },
   {
     "id": 1017,
     "name": "ogerpon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1017.png",
+    "sprite": "/sprites/pokemon/1017.png",
     "region": "paldea"
   },
   {
     "id": 1018,
     "name": "archaludon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1018.png",
+    "sprite": "/sprites/pokemon/1018.png",
     "region": "paldea"
   },
   {
     "id": 1019,
     "name": "hydrapple",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1019.png",
+    "sprite": "/sprites/pokemon/1019.png",
     "region": "paldea"
   },
   {
     "id": 1020,
     "name": "gouging-fire",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1020.png",
+    "sprite": "/sprites/pokemon/1020.png",
     "region": "paldea"
   },
   {
     "id": 1021,
     "name": "raging-bolt",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1021.png",
+    "sprite": "/sprites/pokemon/1021.png",
     "region": "paldea"
   },
   {
     "id": 1022,
     "name": "iron-boulder",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1022.png",
+    "sprite": "/sprites/pokemon/1022.png",
     "region": "paldea"
   },
   {
     "id": 1023,
     "name": "iron-crown",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1023.png",
+    "sprite": "/sprites/pokemon/1023.png",
     "region": "paldea"
   },
   {
     "id": 1024,
     "name": "terapagos",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1024.png",
+    "sprite": "/sprites/pokemon/1024.png",
     "region": "paldea"
   },
   {
     "id": 1025,
     "name": "pecharunt",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1025.png",
+    "sprite": "/sprites/pokemon/1025.png",
     "region": "paldea"
   },
   {
     "id": 10001,
     "name": "deoxys-attack",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10001.png",
+    "sprite": "/sprites/pokemon/10001.png",
     "region": "hoenn"
   },
   {
     "id": 10002,
     "name": "deoxys-defense",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10002.png",
+    "sprite": "/sprites/pokemon/10002.png",
     "region": "hoenn"
   },
   {
     "id": 10003,
     "name": "deoxys-speed",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10003.png",
+    "sprite": "/sprites/pokemon/10003.png",
     "region": "hoenn"
   },
   {
     "id": 10004,
     "name": "wormadam-sandy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10004.png",
+    "sprite": "/sprites/pokemon/10004.png",
     "region": "sinnoh"
   },
   {
     "id": 10005,
     "name": "wormadam-trash",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10005.png",
+    "sprite": "/sprites/pokemon/10005.png",
     "region": "sinnoh"
   },
   {
     "id": 10006,
     "name": "shaymin-sky",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10006.png",
+    "sprite": "/sprites/pokemon/10006.png",
     "region": "sinnoh"
   },
   {
     "id": 10007,
     "name": "giratina-origin",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10007.png",
+    "sprite": "/sprites/pokemon/10007.png",
     "region": "sinnoh"
   },
   {
     "id": 10008,
     "name": "rotom-heat",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10008.png",
+    "sprite": "/sprites/pokemon/10008.png",
     "region": "sinnoh"
   },
   {
     "id": 10009,
     "name": "rotom-wash",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10009.png",
+    "sprite": "/sprites/pokemon/10009.png",
     "region": "sinnoh"
   },
   {
     "id": 10010,
     "name": "rotom-frost",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10010.png",
+    "sprite": "/sprites/pokemon/10010.png",
     "region": "sinnoh"
   },
   {
     "id": 10011,
     "name": "rotom-fan",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10011.png",
+    "sprite": "/sprites/pokemon/10011.png",
     "region": "sinnoh"
   },
   {
     "id": 10012,
     "name": "rotom-mow",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10012.png",
+    "sprite": "/sprites/pokemon/10012.png",
     "region": "sinnoh"
   },
   {
     "id": 10013,
     "name": "castform-sunny",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10013.png",
+    "sprite": "/sprites/pokemon/10013.png",
     "region": "hoenn"
   },
   {
     "id": 10014,
     "name": "castform-rainy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10014.png",
+    "sprite": "/sprites/pokemon/10014.png",
     "region": "hoenn"
   },
   {
     "id": 10015,
     "name": "castform-snowy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10015.png",
+    "sprite": "/sprites/pokemon/10015.png",
     "region": "hoenn"
   },
   {
     "id": 10016,
     "name": "basculin-blue-striped",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10016.png",
+    "sprite": "/sprites/pokemon/10016.png",
     "region": "unova"
   },
   {
     "id": 10017,
     "name": "darmanitan-zen",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10017.png",
+    "sprite": "/sprites/pokemon/10017.png",
     "region": "unova"
   },
   {
     "id": 10018,
     "name": "meloetta-pirouette",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10018.png",
+    "sprite": "/sprites/pokemon/10018.png",
     "region": "unova"
   },
   {
     "id": 10019,
     "name": "tornadus-therian",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10019.png",
+    "sprite": "/sprites/pokemon/10019.png",
     "region": "unova"
   },
   {
     "id": 10020,
     "name": "thundurus-therian",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10020.png",
+    "sprite": "/sprites/pokemon/10020.png",
     "region": "unova"
   },
   {
     "id": 10021,
     "name": "landorus-therian",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10021.png",
+    "sprite": "/sprites/pokemon/10021.png",
     "region": "unova"
   },
   {
     "id": 10022,
     "name": "kyurem-black",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10022.png",
+    "sprite": "/sprites/pokemon/10022.png",
     "region": "unova"
   },
   {
     "id": 10023,
     "name": "kyurem-white",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10023.png",
+    "sprite": "/sprites/pokemon/10023.png",
     "region": "unova"
   },
   {
     "id": 10024,
     "name": "keldeo-resolute",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10024.png",
+    "sprite": "/sprites/pokemon/10024.png",
     "region": "unova"
   },
   {
     "id": 10025,
     "name": "meowstic-female",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10025.png",
+    "sprite": "/sprites/pokemon/10025.png",
     "region": "kalos"
   },
   {
     "id": 10026,
     "name": "aegislash-blade",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10026.png",
+    "sprite": "/sprites/pokemon/10026.png",
     "region": "kalos"
   },
   {
     "id": 10027,
     "name": "pumpkaboo-small",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10027.png",
+    "sprite": "/sprites/pokemon/10027.png",
     "region": "kalos"
   },
   {
     "id": 10028,
     "name": "pumpkaboo-large",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10028.png",
+    "sprite": "/sprites/pokemon/10028.png",
     "region": "kalos"
   },
   {
     "id": 10029,
     "name": "pumpkaboo-super",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10029.png",
+    "sprite": "/sprites/pokemon/10029.png",
     "region": "kalos"
   },
   {
     "id": 10030,
     "name": "gourgeist-small",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10030.png",
+    "sprite": "/sprites/pokemon/10030.png",
     "region": "kalos"
   },
   {
     "id": 10031,
     "name": "gourgeist-large",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10031.png",
+    "sprite": "/sprites/pokemon/10031.png",
     "region": "kalos"
   },
   {
     "id": 10032,
     "name": "gourgeist-super",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10032.png",
+    "sprite": "/sprites/pokemon/10032.png",
     "region": "kalos"
   },
   {
     "id": 10033,
     "name": "venusaur-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10033.png",
+    "sprite": "/sprites/pokemon/10033.png",
     "region": "kanto"
   },
   {
     "id": 10034,
     "name": "charizard-mega-x",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10034.png",
+    "sprite": "/sprites/pokemon/10034.png",
     "region": "kanto"
   },
   {
     "id": 10035,
     "name": "charizard-mega-y",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10035.png",
+    "sprite": "/sprites/pokemon/10035.png",
     "region": "kanto"
   },
   {
     "id": 10036,
     "name": "blastoise-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10036.png",
+    "sprite": "/sprites/pokemon/10036.png",
     "region": "kanto"
   },
   {
     "id": 10037,
     "name": "alakazam-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10037.png",
+    "sprite": "/sprites/pokemon/10037.png",
     "region": "kanto"
   },
   {
     "id": 10038,
     "name": "gengar-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10038.png",
+    "sprite": "/sprites/pokemon/10038.png",
     "region": "kanto"
   },
   {
     "id": 10039,
     "name": "kangaskhan-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10039.png",
+    "sprite": "/sprites/pokemon/10039.png",
     "region": "kanto"
   },
   {
     "id": 10040,
     "name": "pinsir-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10040.png",
+    "sprite": "/sprites/pokemon/10040.png",
     "region": "kanto"
   },
   {
     "id": 10041,
     "name": "gyarados-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10041.png",
+    "sprite": "/sprites/pokemon/10041.png",
     "region": "kanto"
   },
   {
     "id": 10042,
     "name": "aerodactyl-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10042.png",
+    "sprite": "/sprites/pokemon/10042.png",
     "region": "kanto"
   },
   {
     "id": 10043,
     "name": "mewtwo-mega-x",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10043.png",
+    "sprite": "/sprites/pokemon/10043.png",
     "region": "kanto"
   },
   {
     "id": 10044,
     "name": "mewtwo-mega-y",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+    "sprite": "/sprites/pokemon/10044.png",
     "region": "kanto"
   },
   {
     "id": 10045,
     "name": "ampharos-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10045.png",
+    "sprite": "/sprites/pokemon/10045.png",
     "region": "johto"
   },
   {
     "id": 10046,
     "name": "scizor-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10046.png",
+    "sprite": "/sprites/pokemon/10046.png",
     "region": "johto"
   },
   {
     "id": 10047,
     "name": "heracross-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10047.png",
+    "sprite": "/sprites/pokemon/10047.png",
     "region": "johto"
   },
   {
     "id": 10048,
     "name": "houndoom-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10048.png",
+    "sprite": "/sprites/pokemon/10048.png",
     "region": "johto"
   },
   {
     "id": 10049,
     "name": "tyranitar-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10049.png",
+    "sprite": "/sprites/pokemon/10049.png",
     "region": "johto"
   },
   {
     "id": 10050,
     "name": "blaziken-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10050.png",
+    "sprite": "/sprites/pokemon/10050.png",
     "region": "hoenn"
   },
   {
     "id": 10051,
     "name": "gardevoir-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10051.png",
+    "sprite": "/sprites/pokemon/10051.png",
     "region": "hoenn"
   },
   {
     "id": 10052,
     "name": "mawile-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10052.png",
+    "sprite": "/sprites/pokemon/10052.png",
     "region": "hoenn"
   },
   {
     "id": 10053,
     "name": "aggron-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10053.png",
+    "sprite": "/sprites/pokemon/10053.png",
     "region": "hoenn"
   },
   {
     "id": 10054,
     "name": "medicham-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10054.png",
+    "sprite": "/sprites/pokemon/10054.png",
     "region": "hoenn"
   },
   {
     "id": 10055,
     "name": "manectric-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10055.png",
+    "sprite": "/sprites/pokemon/10055.png",
     "region": "hoenn"
   },
   {
     "id": 10056,
     "name": "banette-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10056.png",
+    "sprite": "/sprites/pokemon/10056.png",
     "region": "hoenn"
   },
   {
     "id": 10057,
     "name": "absol-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10057.png",
+    "sprite": "/sprites/pokemon/10057.png",
     "region": "hoenn"
   },
   {
     "id": 10058,
     "name": "garchomp-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10058.png",
+    "sprite": "/sprites/pokemon/10058.png",
     "region": "sinnoh"
   },
   {
     "id": 10059,
     "name": "lucario-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10059.png",
+    "sprite": "/sprites/pokemon/10059.png",
     "region": "sinnoh"
   },
   {
     "id": 10060,
     "name": "abomasnow-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10060.png",
+    "sprite": "/sprites/pokemon/10060.png",
     "region": "sinnoh"
   },
   {
     "id": 10061,
     "name": "floette-eternal",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10061.png",
+    "sprite": "/sprites/pokemon/10061.png",
     "region": "kalos"
   },
   {
     "id": 10062,
     "name": "latias-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10062.png",
+    "sprite": "/sprites/pokemon/10062.png",
     "region": "hoenn"
   },
   {
     "id": 10063,
     "name": "latios-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10063.png",
+    "sprite": "/sprites/pokemon/10063.png",
     "region": "hoenn"
   },
   {
     "id": 10064,
     "name": "swampert-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10064.png",
+    "sprite": "/sprites/pokemon/10064.png",
     "region": "hoenn"
   },
   {
     "id": 10065,
     "name": "sceptile-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10065.png",
+    "sprite": "/sprites/pokemon/10065.png",
     "region": "hoenn"
   },
   {
     "id": 10066,
     "name": "sableye-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10066.png",
+    "sprite": "/sprites/pokemon/10066.png",
     "region": "hoenn"
   },
   {
     "id": 10067,
     "name": "altaria-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10067.png",
+    "sprite": "/sprites/pokemon/10067.png",
     "region": "hoenn"
   },
   {
     "id": 10068,
     "name": "gallade-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10068.png",
+    "sprite": "/sprites/pokemon/10068.png",
     "region": "sinnoh"
   },
   {
     "id": 10069,
     "name": "audino-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10069.png",
+    "sprite": "/sprites/pokemon/10069.png",
     "region": "unova"
   },
   {
     "id": 10070,
     "name": "sharpedo-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10070.png",
+    "sprite": "/sprites/pokemon/10070.png",
     "region": "hoenn"
   },
   {
     "id": 10071,
     "name": "slowbro-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10071.png",
+    "sprite": "/sprites/pokemon/10071.png",
     "region": "kanto"
   },
   {
     "id": 10072,
     "name": "steelix-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10072.png",
+    "sprite": "/sprites/pokemon/10072.png",
     "region": "johto"
   },
   {
     "id": 10073,
     "name": "pidgeot-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10073.png",
+    "sprite": "/sprites/pokemon/10073.png",
     "region": "kanto"
   },
   {
     "id": 10074,
     "name": "glalie-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10074.png",
+    "sprite": "/sprites/pokemon/10074.png",
     "region": "hoenn"
   },
   {
     "id": 10075,
     "name": "diancie-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10075.png",
+    "sprite": "/sprites/pokemon/10075.png",
     "region": "kalos"
   },
   {
     "id": 10076,
     "name": "metagross-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10076.png",
+    "sprite": "/sprites/pokemon/10076.png",
     "region": "hoenn"
   },
   {
     "id": 10077,
     "name": "kyogre-primal",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10077.png",
+    "sprite": "/sprites/pokemon/10077.png",
     "region": "hoenn"
   },
   {
     "id": 10078,
     "name": "groudon-primal",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10078.png",
+    "sprite": "/sprites/pokemon/10078.png",
     "region": "hoenn"
   },
   {
     "id": 10079,
     "name": "rayquaza-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10079.png",
+    "sprite": "/sprites/pokemon/10079.png",
     "region": "hoenn"
   },
   {
     "id": 10080,
     "name": "pikachu-rock-star",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10080.png",
+    "sprite": "/sprites/pokemon/10080.png",
     "region": "kanto"
   },
   {
     "id": 10081,
     "name": "pikachu-belle",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10081.png",
+    "sprite": "/sprites/pokemon/10081.png",
     "region": "kanto"
   },
   {
     "id": 10082,
     "name": "pikachu-pop-star",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10082.png",
+    "sprite": "/sprites/pokemon/10082.png",
     "region": "kanto"
   },
   {
     "id": 10083,
     "name": "pikachu-phd",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10083.png",
+    "sprite": "/sprites/pokemon/10083.png",
     "region": "kanto"
   },
   {
     "id": 10084,
     "name": "pikachu-libre",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10084.png",
+    "sprite": "/sprites/pokemon/10084.png",
     "region": "kanto"
   },
   {
     "id": 10085,
     "name": "pikachu-cosplay",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10085.png",
+    "sprite": "/sprites/pokemon/10085.png",
     "region": "kanto"
   },
   {
     "id": 10086,
     "name": "hoopa-unbound",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10086.png",
+    "sprite": "/sprites/pokemon/10086.png",
     "region": "kalos"
   },
   {
     "id": 10087,
     "name": "camerupt-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10087.png",
+    "sprite": "/sprites/pokemon/10087.png",
     "region": "hoenn"
   },
   {
     "id": 10088,
     "name": "lopunny-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10088.png",
+    "sprite": "/sprites/pokemon/10088.png",
     "region": "sinnoh"
   },
   {
     "id": 10089,
     "name": "salamence-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10089.png",
+    "sprite": "/sprites/pokemon/10089.png",
     "region": "hoenn"
   },
   {
     "id": 10090,
     "name": "beedrill-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10090.png",
+    "sprite": "/sprites/pokemon/10090.png",
     "region": "kanto"
   },
   {
     "id": 10091,
     "name": "rattata-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10091.png",
+    "sprite": "/sprites/pokemon/10091.png",
     "region": "kanto"
   },
   {
     "id": 10092,
     "name": "raticate-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10092.png",
+    "sprite": "/sprites/pokemon/10092.png",
     "region": "kanto"
   },
   {
     "id": 10093,
     "name": "raticate-totem-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10093.png",
+    "sprite": "/sprites/pokemon/10093.png",
     "region": "kanto"
   },
   {
     "id": 10094,
     "name": "pikachu-original-cap",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10094.png",
+    "sprite": "/sprites/pokemon/10094.png",
     "region": "kanto"
   },
   {
     "id": 10095,
     "name": "pikachu-hoenn-cap",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10095.png",
+    "sprite": "/sprites/pokemon/10095.png",
     "region": "kanto"
   },
   {
     "id": 10096,
     "name": "pikachu-sinnoh-cap",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10096.png",
+    "sprite": "/sprites/pokemon/10096.png",
     "region": "kanto"
   },
   {
     "id": 10097,
     "name": "pikachu-unova-cap",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10097.png",
+    "sprite": "/sprites/pokemon/10097.png",
     "region": "kanto"
   },
   {
     "id": 10098,
     "name": "pikachu-kalos-cap",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10098.png",
+    "sprite": "/sprites/pokemon/10098.png",
     "region": "kanto"
   },
   {
     "id": 10099,
     "name": "pikachu-alola-cap",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10099.png",
+    "sprite": "/sprites/pokemon/10099.png",
     "region": "kanto"
   },
   {
     "id": 10100,
     "name": "raichu-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10100.png",
+    "sprite": "/sprites/pokemon/10100.png",
     "region": "kanto"
   },
   {
     "id": 10101,
     "name": "sandshrew-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10101.png",
+    "sprite": "/sprites/pokemon/10101.png",
     "region": "kanto"
   },
   {
     "id": 10102,
     "name": "sandslash-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10102.png",
+    "sprite": "/sprites/pokemon/10102.png",
     "region": "kanto"
   },
   {
     "id": 10103,
     "name": "vulpix-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10103.png",
+    "sprite": "/sprites/pokemon/10103.png",
     "region": "kanto"
   },
   {
     "id": 10104,
     "name": "ninetales-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10104.png",
+    "sprite": "/sprites/pokemon/10104.png",
     "region": "kanto"
   },
   {
     "id": 10105,
     "name": "diglett-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10105.png",
+    "sprite": "/sprites/pokemon/10105.png",
     "region": "kanto"
   },
   {
     "id": 10106,
     "name": "dugtrio-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10106.png",
+    "sprite": "/sprites/pokemon/10106.png",
     "region": "kanto"
   },
   {
     "id": 10107,
     "name": "meowth-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10107.png",
+    "sprite": "/sprites/pokemon/10107.png",
     "region": "kanto"
   },
   {
     "id": 10108,
     "name": "persian-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10108.png",
+    "sprite": "/sprites/pokemon/10108.png",
     "region": "kanto"
   },
   {
     "id": 10109,
     "name": "geodude-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10109.png",
+    "sprite": "/sprites/pokemon/10109.png",
     "region": "kanto"
   },
   {
     "id": 10110,
     "name": "graveler-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10110.png",
+    "sprite": "/sprites/pokemon/10110.png",
     "region": "kanto"
   },
   {
     "id": 10111,
     "name": "golem-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10111.png",
+    "sprite": "/sprites/pokemon/10111.png",
     "region": "kanto"
   },
   {
     "id": 10112,
     "name": "grimer-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10112.png",
+    "sprite": "/sprites/pokemon/10112.png",
     "region": "kanto"
   },
   {
     "id": 10113,
     "name": "muk-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10113.png",
+    "sprite": "/sprites/pokemon/10113.png",
     "region": "kanto"
   },
   {
     "id": 10114,
     "name": "exeggutor-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10114.png",
+    "sprite": "/sprites/pokemon/10114.png",
     "region": "kanto"
   },
   {
     "id": 10115,
     "name": "marowak-alola",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10115.png",
+    "sprite": "/sprites/pokemon/10115.png",
     "region": "kanto"
   },
   {
     "id": 10116,
     "name": "greninja-battle-bond",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10116.png",
+    "sprite": "/sprites/pokemon/10116.png",
     "region": "kalos"
   },
   {
     "id": 10117,
     "name": "greninja-ash",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10117.png",
+    "sprite": "/sprites/pokemon/10117.png",
     "region": "kalos"
   },
   {
     "id": 10118,
     "name": "zygarde-10-power-construct",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10118.png",
+    "sprite": "/sprites/pokemon/10118.png",
     "region": "kalos"
   },
   {
     "id": 10119,
     "name": "zygarde-50-power-construct",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10119.png",
+    "sprite": "/sprites/pokemon/10119.png",
     "region": "kalos"
   },
   {
     "id": 10120,
     "name": "zygarde-complete",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10120.png",
+    "sprite": "/sprites/pokemon/10120.png",
     "region": "kalos"
   },
   {
     "id": 10121,
     "name": "gumshoos-totem",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10121.png",
+    "sprite": "/sprites/pokemon/10121.png",
     "region": "alola"
   },
   {
     "id": 10122,
     "name": "vikavolt-totem",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10122.png",
+    "sprite": "/sprites/pokemon/10122.png",
     "region": "alola"
   },
   {
     "id": 10123,
     "name": "oricorio-pom-pom",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10123.png",
+    "sprite": "/sprites/pokemon/10123.png",
     "region": "alola"
   },
   {
     "id": 10124,
     "name": "oricorio-pau",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10124.png",
+    "sprite": "/sprites/pokemon/10124.png",
     "region": "alola"
   },
   {
     "id": 10125,
     "name": "oricorio-sensu",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10125.png",
+    "sprite": "/sprites/pokemon/10125.png",
     "region": "alola"
   },
   {
     "id": 10126,
     "name": "lycanroc-midnight",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10126.png",
+    "sprite": "/sprites/pokemon/10126.png",
     "region": "alola"
   },
   {
     "id": 10127,
     "name": "wishiwashi-school",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10127.png",
+    "sprite": "/sprites/pokemon/10127.png",
     "region": "alola"
   },
   {
@@ -6929,97 +6929,97 @@ export const pokemonList: PokemonOption[] = [
   {
     "id": 10130,
     "name": "minior-orange-meteor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10130.png",
+    "sprite": "/sprites/pokemon/10130.png",
     "region": "alola"
   },
   {
     "id": 10131,
     "name": "minior-yellow-meteor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10131.png",
+    "sprite": "/sprites/pokemon/10131.png",
     "region": "alola"
   },
   {
     "id": 10132,
     "name": "minior-green-meteor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10132.png",
+    "sprite": "/sprites/pokemon/10132.png",
     "region": "alola"
   },
   {
     "id": 10133,
     "name": "minior-blue-meteor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10133.png",
+    "sprite": "/sprites/pokemon/10133.png",
     "region": "alola"
   },
   {
     "id": 10134,
     "name": "minior-indigo-meteor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10134.png",
+    "sprite": "/sprites/pokemon/10134.png",
     "region": "alola"
   },
   {
     "id": 10135,
     "name": "minior-violet-meteor",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10135.png",
+    "sprite": "/sprites/pokemon/10135.png",
     "region": "alola"
   },
   {
     "id": 10136,
     "name": "minior-red",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10136.png",
+    "sprite": "/sprites/pokemon/10136.png",
     "region": "alola"
   },
   {
     "id": 10137,
     "name": "minior-orange",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10137.png",
+    "sprite": "/sprites/pokemon/10137.png",
     "region": "alola"
   },
   {
     "id": 10138,
     "name": "minior-yellow",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10138.png",
+    "sprite": "/sprites/pokemon/10138.png",
     "region": "alola"
   },
   {
     "id": 10139,
     "name": "minior-green",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10139.png",
+    "sprite": "/sprites/pokemon/10139.png",
     "region": "alola"
   },
   {
     "id": 10140,
     "name": "minior-blue",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10140.png",
+    "sprite": "/sprites/pokemon/10140.png",
     "region": "alola"
   },
   {
     "id": 10141,
     "name": "minior-indigo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10141.png",
+    "sprite": "/sprites/pokemon/10141.png",
     "region": "alola"
   },
   {
     "id": 10142,
     "name": "minior-violet",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10142.png",
+    "sprite": "/sprites/pokemon/10142.png",
     "region": "alola"
   },
   {
     "id": 10143,
     "name": "mimikyu-busted",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10143.png",
+    "sprite": "/sprites/pokemon/10143.png",
     "region": "alola"
   },
   {
     "id": 10144,
     "name": "mimikyu-totem-disguised",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10144.png",
+    "sprite": "/sprites/pokemon/10144.png",
     "region": "alola"
   },
   {
     "id": 10145,
     "name": "mimikyu-totem-busted",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10145.png",
+    "sprite": "/sprites/pokemon/10145.png",
     "region": "alola"
   },
   {
@@ -7031,37 +7031,37 @@ export const pokemonList: PokemonOption[] = [
   {
     "id": 10147,
     "name": "magearna-original",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10147.png",
+    "sprite": "/sprites/pokemon/10147.png",
     "region": "alola"
   },
   {
     "id": 10148,
     "name": "pikachu-partner-cap",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10148.png",
+    "sprite": "/sprites/pokemon/10148.png",
     "region": "kanto"
   },
   {
     "id": 10149,
     "name": "marowak-totem",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10149.png",
+    "sprite": "/sprites/pokemon/10149.png",
     "region": "kanto"
   },
   {
     "id": 10150,
     "name": "ribombee-totem",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10150.png",
+    "sprite": "/sprites/pokemon/10150.png",
     "region": "alola"
   },
   {
     "id": 10151,
     "name": "rockruff-own-tempo",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10151.png",
+    "sprite": "/sprites/pokemon/10151.png",
     "region": "alola"
   },
   {
     "id": 10152,
     "name": "lycanroc-dusk",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10152.png",
+    "sprite": "/sprites/pokemon/10152.png",
     "region": "alola"
   },
   {
@@ -7079,19 +7079,19 @@ export const pokemonList: PokemonOption[] = [
   {
     "id": 10155,
     "name": "necrozma-dusk",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10155.png",
+    "sprite": "/sprites/pokemon/10155.png",
     "region": "alola"
   },
   {
     "id": 10156,
     "name": "necrozma-dawn",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10156.png",
+    "sprite": "/sprites/pokemon/10156.png",
     "region": "alola"
   },
   {
     "id": 10157,
     "name": "necrozma-ultra",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10157.png",
+    "sprite": "/sprites/pokemon/10157.png",
     "region": "alola"
   },
   {
@@ -7109,133 +7109,133 @@ export const pokemonList: PokemonOption[] = [
   {
     "id": 10160,
     "name": "pikachu-world-cap",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10160.png",
+    "sprite": "/sprites/pokemon/10160.png",
     "region": "kanto"
   },
   {
     "id": 10161,
     "name": "meowth-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10161.png",
+    "sprite": "/sprites/pokemon/10161.png",
     "region": "kanto"
   },
   {
     "id": 10162,
     "name": "ponyta-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10162.png",
+    "sprite": "/sprites/pokemon/10162.png",
     "region": "kanto"
   },
   {
     "id": 10163,
     "name": "rapidash-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10163.png",
+    "sprite": "/sprites/pokemon/10163.png",
     "region": "kanto"
   },
   {
     "id": 10164,
     "name": "slowpoke-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10164.png",
+    "sprite": "/sprites/pokemon/10164.png",
     "region": "kanto"
   },
   {
     "id": 10165,
     "name": "slowbro-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10165.png",
+    "sprite": "/sprites/pokemon/10165.png",
     "region": "kanto"
   },
   {
     "id": 10166,
     "name": "farfetchd-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10166.png",
+    "sprite": "/sprites/pokemon/10166.png",
     "region": "kanto"
   },
   {
     "id": 10167,
     "name": "weezing-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10167.png",
+    "sprite": "/sprites/pokemon/10167.png",
     "region": "kanto"
   },
   {
     "id": 10168,
     "name": "mr-mime-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10168.png",
+    "sprite": "/sprites/pokemon/10168.png",
     "region": "kanto"
   },
   {
     "id": 10169,
     "name": "articuno-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10169.png",
+    "sprite": "/sprites/pokemon/10169.png",
     "region": "kanto"
   },
   {
     "id": 10170,
     "name": "zapdos-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10170.png",
+    "sprite": "/sprites/pokemon/10170.png",
     "region": "kanto"
   },
   {
     "id": 10171,
     "name": "moltres-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10171.png",
+    "sprite": "/sprites/pokemon/10171.png",
     "region": "kanto"
   },
   {
     "id": 10172,
     "name": "slowking-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10172.png",
+    "sprite": "/sprites/pokemon/10172.png",
     "region": "johto"
   },
   {
     "id": 10173,
     "name": "corsola-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10173.png",
+    "sprite": "/sprites/pokemon/10173.png",
     "region": "johto"
   },
   {
     "id": 10174,
     "name": "zigzagoon-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10174.png",
+    "sprite": "/sprites/pokemon/10174.png",
     "region": "hoenn"
   },
   {
     "id": 10175,
     "name": "linoone-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10175.png",
+    "sprite": "/sprites/pokemon/10175.png",
     "region": "hoenn"
   },
   {
     "id": 10176,
     "name": "darumaka-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10176.png",
+    "sprite": "/sprites/pokemon/10176.png",
     "region": "unova"
   },
   {
     "id": 10177,
     "name": "darmanitan-galar-standard",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10177.png",
+    "sprite": "/sprites/pokemon/10177.png",
     "region": "unova"
   },
   {
     "id": 10178,
     "name": "darmanitan-galar-zen",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10178.png",
+    "sprite": "/sprites/pokemon/10178.png",
     "region": "unova"
   },
   {
     "id": 10179,
     "name": "yamask-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10179.png",
+    "sprite": "/sprites/pokemon/10179.png",
     "region": "unova"
   },
   {
     "id": 10180,
     "name": "stunfisk-galar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10180.png",
+    "sprite": "/sprites/pokemon/10180.png",
     "region": "unova"
   },
   {
     "id": 10181,
     "name": "zygarde-10",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10181.png",
+    "sprite": "/sprites/pokemon/10181.png",
     "region": "kalos"
   },
   {
@@ -7247,487 +7247,487 @@ export const pokemonList: PokemonOption[] = [
   {
     "id": 10183,
     "name": "cramorant-gorging",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10183.png",
+    "sprite": "/sprites/pokemon/10183.png",
     "region": "galar"
   },
   {
     "id": 10184,
     "name": "toxtricity-low-key",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10184.png",
+    "sprite": "/sprites/pokemon/10184.png",
     "region": "galar"
   },
   {
     "id": 10185,
     "name": "eiscue-noice",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10185.png",
+    "sprite": "/sprites/pokemon/10185.png",
     "region": "galar"
   },
   {
     "id": 10186,
     "name": "indeedee-female",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10186.png",
+    "sprite": "/sprites/pokemon/10186.png",
     "region": "galar"
   },
   {
     "id": 10187,
     "name": "morpeko-hangry",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10187.png",
+    "sprite": "/sprites/pokemon/10187.png",
     "region": "galar"
   },
   {
     "id": 10188,
     "name": "zacian-crowned",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10188.png",
+    "sprite": "/sprites/pokemon/10188.png",
     "region": "galar"
   },
   {
     "id": 10189,
     "name": "zamazenta-crowned",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10189.png",
+    "sprite": "/sprites/pokemon/10189.png",
     "region": "galar"
   },
   {
     "id": 10190,
     "name": "eternatus-eternamax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10190.png",
+    "sprite": "/sprites/pokemon/10190.png",
     "region": "galar"
   },
   {
     "id": 10191,
     "name": "urshifu-rapid-strike",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10191.png",
+    "sprite": "/sprites/pokemon/10191.png",
     "region": "galar"
   },
   {
     "id": 10192,
     "name": "zarude-dada",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10192.png",
+    "sprite": "/sprites/pokemon/10192.png",
     "region": "galar"
   },
   {
     "id": 10193,
     "name": "calyrex-ice",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10193.png",
+    "sprite": "/sprites/pokemon/10193.png",
     "region": "galar"
   },
   {
     "id": 10194,
     "name": "calyrex-shadow",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10194.png",
+    "sprite": "/sprites/pokemon/10194.png",
     "region": "galar"
   },
   {
     "id": 10195,
     "name": "venusaur-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10195.png",
+    "sprite": "/sprites/pokemon/10195.png",
     "region": "kanto"
   },
   {
     "id": 10196,
     "name": "charizard-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10196.png",
+    "sprite": "/sprites/pokemon/10196.png",
     "region": "kanto"
   },
   {
     "id": 10197,
     "name": "blastoise-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10197.png",
+    "sprite": "/sprites/pokemon/10197.png",
     "region": "kanto"
   },
   {
     "id": 10198,
     "name": "butterfree-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10198.png",
+    "sprite": "/sprites/pokemon/10198.png",
     "region": "kanto"
   },
   {
     "id": 10199,
     "name": "pikachu-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10199.png",
+    "sprite": "/sprites/pokemon/10199.png",
     "region": "kanto"
   },
   {
     "id": 10200,
     "name": "meowth-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10200.png",
+    "sprite": "/sprites/pokemon/10200.png",
     "region": "kanto"
   },
   {
     "id": 10201,
     "name": "machamp-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10201.png",
+    "sprite": "/sprites/pokemon/10201.png",
     "region": "kanto"
   },
   {
     "id": 10202,
     "name": "gengar-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10202.png",
+    "sprite": "/sprites/pokemon/10202.png",
     "region": "kanto"
   },
   {
     "id": 10203,
     "name": "kingler-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10203.png",
+    "sprite": "/sprites/pokemon/10203.png",
     "region": "kanto"
   },
   {
     "id": 10204,
     "name": "lapras-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10204.png",
+    "sprite": "/sprites/pokemon/10204.png",
     "region": "kanto"
   },
   {
     "id": 10205,
     "name": "eevee-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10205.png",
+    "sprite": "/sprites/pokemon/10205.png",
     "region": "kanto"
   },
   {
     "id": 10206,
     "name": "snorlax-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10206.png",
+    "sprite": "/sprites/pokemon/10206.png",
     "region": "kanto"
   },
   {
     "id": 10207,
     "name": "garbodor-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10207.png",
+    "sprite": "/sprites/pokemon/10207.png",
     "region": "unova"
   },
   {
     "id": 10208,
     "name": "melmetal-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10208.png",
+    "sprite": "/sprites/pokemon/10208.png",
     "region": "alola"
   },
   {
     "id": 10209,
     "name": "rillaboom-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10209.png",
+    "sprite": "/sprites/pokemon/10209.png",
     "region": "galar"
   },
   {
     "id": 10210,
     "name": "cinderace-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10210.png",
+    "sprite": "/sprites/pokemon/10210.png",
     "region": "galar"
   },
   {
     "id": 10211,
     "name": "inteleon-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10211.png",
+    "sprite": "/sprites/pokemon/10211.png",
     "region": "galar"
   },
   {
     "id": 10212,
     "name": "corviknight-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10212.png",
+    "sprite": "/sprites/pokemon/10212.png",
     "region": "galar"
   },
   {
     "id": 10213,
     "name": "orbeetle-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10213.png",
+    "sprite": "/sprites/pokemon/10213.png",
     "region": "galar"
   },
   {
     "id": 10214,
     "name": "drednaw-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10214.png",
+    "sprite": "/sprites/pokemon/10214.png",
     "region": "galar"
   },
   {
     "id": 10215,
     "name": "coalossal-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10215.png",
+    "sprite": "/sprites/pokemon/10215.png",
     "region": "galar"
   },
   {
     "id": 10216,
     "name": "flapple-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10216.png",
+    "sprite": "/sprites/pokemon/10216.png",
     "region": "galar"
   },
   {
     "id": 10217,
     "name": "appletun-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10217.png",
+    "sprite": "/sprites/pokemon/10217.png",
     "region": "galar"
   },
   {
     "id": 10218,
     "name": "sandaconda-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10218.png",
+    "sprite": "/sprites/pokemon/10218.png",
     "region": "galar"
   },
   {
     "id": 10219,
     "name": "toxtricity-amped-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10219.png",
+    "sprite": "/sprites/pokemon/10219.png",
     "region": "galar"
   },
   {
     "id": 10220,
     "name": "centiskorch-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10220.png",
+    "sprite": "/sprites/pokemon/10220.png",
     "region": "galar"
   },
   {
     "id": 10221,
     "name": "hatterene-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10221.png",
+    "sprite": "/sprites/pokemon/10221.png",
     "region": "galar"
   },
   {
     "id": 10222,
     "name": "grimmsnarl-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10222.png",
+    "sprite": "/sprites/pokemon/10222.png",
     "region": "galar"
   },
   {
     "id": 10223,
     "name": "alcremie-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10223.png",
+    "sprite": "/sprites/pokemon/10223.png",
     "region": "galar"
   },
   {
     "id": 10224,
     "name": "copperajah-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10224.png",
+    "sprite": "/sprites/pokemon/10224.png",
     "region": "galar"
   },
   {
     "id": 10225,
     "name": "duraludon-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10225.png",
+    "sprite": "/sprites/pokemon/10225.png",
     "region": "galar"
   },
   {
     "id": 10226,
     "name": "urshifu-single-strike-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10226.png",
+    "sprite": "/sprites/pokemon/10226.png",
     "region": "galar"
   },
   {
     "id": 10227,
     "name": "urshifu-rapid-strike-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10227.png",
+    "sprite": "/sprites/pokemon/10227.png",
     "region": "galar"
   },
   {
     "id": 10228,
     "name": "toxtricity-low-key-gmax",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10228.png",
+    "sprite": "/sprites/pokemon/10228.png",
     "region": "galar"
   },
   {
     "id": 10229,
     "name": "growlithe-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10229.png",
+    "sprite": "/sprites/pokemon/10229.png",
     "region": "kanto"
   },
   {
     "id": 10230,
     "name": "arcanine-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10230.png",
+    "sprite": "/sprites/pokemon/10230.png",
     "region": "kanto"
   },
   {
     "id": 10231,
     "name": "voltorb-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10231.png",
+    "sprite": "/sprites/pokemon/10231.png",
     "region": "kanto"
   },
   {
     "id": 10232,
     "name": "electrode-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10232.png",
+    "sprite": "/sprites/pokemon/10232.png",
     "region": "kanto"
   },
   {
     "id": 10233,
     "name": "typhlosion-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10233.png",
+    "sprite": "/sprites/pokemon/10233.png",
     "region": "johto"
   },
   {
     "id": 10234,
     "name": "qwilfish-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10234.png",
+    "sprite": "/sprites/pokemon/10234.png",
     "region": "johto"
   },
   {
     "id": 10235,
     "name": "sneasel-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10235.png",
+    "sprite": "/sprites/pokemon/10235.png",
     "region": "johto"
   },
   {
     "id": 10236,
     "name": "samurott-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10236.png",
+    "sprite": "/sprites/pokemon/10236.png",
     "region": "unova"
   },
   {
     "id": 10237,
     "name": "lilligant-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10237.png",
+    "sprite": "/sprites/pokemon/10237.png",
     "region": "unova"
   },
   {
     "id": 10238,
     "name": "zorua-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10238.png",
+    "sprite": "/sprites/pokemon/10238.png",
     "region": "unova"
   },
   {
     "id": 10239,
     "name": "zoroark-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10239.png",
+    "sprite": "/sprites/pokemon/10239.png",
     "region": "unova"
   },
   {
     "id": 10240,
     "name": "braviary-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10240.png",
+    "sprite": "/sprites/pokemon/10240.png",
     "region": "unova"
   },
   {
     "id": 10241,
     "name": "sliggoo-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10241.png",
+    "sprite": "/sprites/pokemon/10241.png",
     "region": "kalos"
   },
   {
     "id": 10242,
     "name": "goodra-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10242.png",
+    "sprite": "/sprites/pokemon/10242.png",
     "region": "kalos"
   },
   {
     "id": 10243,
     "name": "avalugg-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10243.png",
+    "sprite": "/sprites/pokemon/10243.png",
     "region": "kalos"
   },
   {
     "id": 10244,
     "name": "decidueye-hisui",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10244.png",
+    "sprite": "/sprites/pokemon/10244.png",
     "region": "alola"
   },
   {
     "id": 10245,
     "name": "dialga-origin",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10245.png",
+    "sprite": "/sprites/pokemon/10245.png",
     "region": "sinnoh"
   },
   {
     "id": 10246,
     "name": "palkia-origin",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10246.png",
+    "sprite": "/sprites/pokemon/10246.png",
     "region": "sinnoh"
   },
   {
     "id": 10247,
     "name": "basculin-white-striped",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10247.png",
+    "sprite": "/sprites/pokemon/10247.png",
     "region": "unova"
   },
   {
     "id": 10248,
     "name": "basculegion-female",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10248.png",
+    "sprite": "/sprites/pokemon/10248.png",
     "region": "galar"
   },
   {
     "id": 10249,
     "name": "enamorus-therian",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10249.png",
+    "sprite": "/sprites/pokemon/10249.png",
     "region": "galar"
   },
   {
     "id": 10250,
     "name": "tauros-paldea-combat-breed",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10250.png",
+    "sprite": "/sprites/pokemon/10250.png",
     "region": "kanto"
   },
   {
     "id": 10251,
     "name": "tauros-paldea-blaze-breed",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10251.png",
+    "sprite": "/sprites/pokemon/10251.png",
     "region": "kanto"
   },
   {
     "id": 10252,
     "name": "tauros-paldea-aqua-breed",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10252.png",
+    "sprite": "/sprites/pokemon/10252.png",
     "region": "kanto"
   },
   {
     "id": 10253,
     "name": "wooper-paldea",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10253.png",
+    "sprite": "/sprites/pokemon/10253.png",
     "region": "johto"
   },
   {
     "id": 10254,
     "name": "oinkologne-female",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10254.png",
+    "sprite": "/sprites/pokemon/10254.png",
     "region": "paldea"
   },
   {
     "id": 10255,
     "name": "dudunsparce-three-segment",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10255.png",
+    "sprite": "/sprites/pokemon/10255.png",
     "region": "paldea"
   },
   {
     "id": 10256,
     "name": "palafin-hero",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10256.png",
+    "sprite": "/sprites/pokemon/10256.png",
     "region": "paldea"
   },
   {
     "id": 10257,
     "name": "maushold-family-of-three",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10257.png",
+    "sprite": "/sprites/pokemon/10257.png",
     "region": "paldea"
   },
   {
     "id": 10258,
     "name": "tatsugiri-droopy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10258.png",
+    "sprite": "/sprites/pokemon/10258.png",
     "region": "paldea"
   },
   {
     "id": 10259,
     "name": "tatsugiri-stretchy",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10259.png",
+    "sprite": "/sprites/pokemon/10259.png",
     "region": "paldea"
   },
   {
     "id": 10260,
     "name": "squawkabilly-blue-plumage",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10260.png",
+    "sprite": "/sprites/pokemon/10260.png",
     "region": "paldea"
   },
   {
     "id": 10261,
     "name": "squawkabilly-yellow-plumage",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10261.png",
+    "sprite": "/sprites/pokemon/10261.png",
     "region": "paldea"
   },
   {
     "id": 10262,
     "name": "squawkabilly-white-plumage",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10262.png",
+    "sprite": "/sprites/pokemon/10262.png",
     "region": "paldea"
   },
   {
     "id": 10263,
     "name": "gimmighoul-roaming",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10263.png",
+    "sprite": "/sprites/pokemon/10263.png",
     "region": "paldea"
   },
   {
@@ -7781,37 +7781,37 @@ export const pokemonList: PokemonOption[] = [
   {
     "id": 10272,
     "name": "ursaluna-bloodmoon",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10272.png",
+    "sprite": "/sprites/pokemon/10272.png",
     "region": "galar"
   },
   {
     "id": 10273,
     "name": "ogerpon-wellspring-mask",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10273.png",
+    "sprite": "/sprites/pokemon/10273.png",
     "region": "paldea"
   },
   {
     "id": 10274,
     "name": "ogerpon-hearthflame-mask",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10274.png",
+    "sprite": "/sprites/pokemon/10274.png",
     "region": "paldea"
   },
   {
     "id": 10275,
     "name": "ogerpon-cornerstone-mask",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10275.png",
+    "sprite": "/sprites/pokemon/10275.png",
     "region": "paldea"
   },
   {
     "id": 10276,
     "name": "terapagos-terastal",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10276.png",
+    "sprite": "/sprites/pokemon/10276.png",
     "region": "paldea"
   },
   {
     "id": 10277,
     "name": "terapagos-stellar",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10277.png",
+    "sprite": "/sprites/pokemon/10277.png",
     "region": "paldea"
   },
   {
@@ -7823,7 +7823,7 @@ export const pokemonList: PokemonOption[] = [
   {
     "id": 10279,
     "name": "victreebel-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10279.png",
+    "sprite": "/sprites/pokemon/10279.png",
     "region": "kanto"
   },
   {
@@ -7835,7 +7835,7 @@ export const pokemonList: PokemonOption[] = [
   {
     "id": 10281,
     "name": "dragonite-mega",
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10281.png",
+    "sprite": "/sprites/pokemon/10281.png",
     "region": "kanto"
   },
   {

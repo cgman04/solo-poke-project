@@ -272,7 +272,7 @@ function App() {
             {party.map((slot, index) => (
               <div key={index} className="party-slot">
                 <img
-                  src={slot?.sprite ?? "/placeholders/poke-ball.png"}
+                  src={slot?.sprite ?? "/sprites/items/poke-ball.png"}
                   alt={slot?.name ?? "Empty party slot"}
                   className={`party-slot-image ${slot ? "party-filled" : "party-empty"}`}
                 />
