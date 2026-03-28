@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-
 * {
   box-sizing: border-box;
 }
@@ -8,8 +6,10 @@ html,
 body,
 #root {
   margin: 0;
+  padding: 0;
   width: 100%;
   height: 100%;
+  overflow: visible;
 }
 
 body {
@@ -20,9 +20,11 @@ body {
 
 .app {
   position: relative;
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
   background: transparent;
+  overflow: visible;
 }
 
 h1 {
@@ -67,8 +69,8 @@ select {
 }
 
 .badge-image {
-  width: 56px;
-  height: 56px;
+  width: 72px;
+  height: 72px;
   object-fit: contain;
   transition: transform 0.2s ease, filter 0.2s ease, opacity 0.2s ease;
 }
@@ -105,8 +107,8 @@ select {
 }
 
 .party-slot-image {
-  width: 72px;
-  height: 72px;
+  width: 96px;
+  height: 96px;
   object-fit: contain;
   display: block;
   margin: 0;
@@ -151,14 +153,14 @@ select {
 
 .overlay-party {
   position: absolute;
-  left: 24px;
+  left: 10%;
   bottom: 24px;
   z-index: 5;
 }
 
 .overlay-badges {
   position: absolute;
-  right: 24px;
+  right: 10%;
   bottom: 24px;
   z-index: 5;
 }
@@ -191,6 +193,31 @@ select {
 @media (max-width: 768px) {
   .party-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+/* Vertical / portrait layout (e.g. Streamlabs Vertical Output) */
+@media (orientation: portrait) {
+  .overlay-party {
+    left: 24px;
+    bottom: 24px;
+    top: auto;
+  }
+
+  .overlay-badges {
+    right: 24px;
+    left: auto;
+    bottom: 24px;
+  }
+
+  .party-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .badge-row {
+    flex-direction: column;
+    align-items: center;
   }
 }
 
@@ -325,4 +352,105 @@ option {
 .sidebar-badge-toggle input[type="checkbox"] {
   accent-color: #4b9;
   margin-right: 2px;
+}
+
+.shiny-active {
+  background: #b8860b !important;
+  border-color: #ffd700 !important;
+  color: #fff;
+  text-shadow: 0 0 6px #ffd700;
+}
+
+/* Save / Load */
+.save-input-row {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 6px;
+}
+
+.save-name-input {
+  flex: 1;
+  min-width: 0;
+  font-size: 11px !important;
+  padding: 4px 6px !important;
+  margin: 0 !important;
+}
+
+.save-btn {
+  white-space: nowrap;
+}
+
+.save-slots-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.save-slot-empty {
+  font-size: 10px;
+  color: #888;
+  text-align: center;
+  padding: 6px 0;
+}
+
+.save-slot-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 4px;
+  background: #2a2a2a;
+  border: 1px solid #444;
+  border-radius: 6px;
+  padding: 4px 6px;
+}
+
+.save-slot-info {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.save-slot-name {
+  font-size: 10px;
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.save-slot-meta {
+  font-size: 8px;
+  color: #999;
+  white-space: nowrap;
+}
+
+.save-slot-actions {
+  display: flex;
+  gap: 2px;
+  flex-shrink: 0;
+}
+
+.load-btn {
+  background: #2563eb !important;
+  border-color: #3b82f6 !important;
+  font-size: 10px !important;
+  padding: 2px 6px !important;
+}
+
+.load-btn:hover {
+  background: #3b82f6 !important;
+}
+
+.delete-btn {
+  background: #7f1d1d !important;
+  border-color: #991b1b !important;
+  font-size: 10px !important;
+  padding: 2px 5px !important;
+}
+
+.delete-btn:hover {
+  background: #991b1b !important;
 }

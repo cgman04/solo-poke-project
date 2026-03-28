@@ -18,7 +18,7 @@ function PartySlotCard({
   return (
     <div className="party-slot">
       <img
-        src={slot ? slot.sprite : "/placeholders/pokeball-gray.png"}
+        src={slot?.sprite ?? "placeholders/pokeball-gray.png"}
         alt={slot ? slot.name : "Empty party slot"}
         className="party-slot-image"
       />
